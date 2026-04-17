@@ -23,6 +23,8 @@
   - Related: `lemon-balm`, `container-09`, `container-10`
 - **Plant mesclun lettuce** — transplant 6 starters into a shallow container using Lettuce / Salad Greens Mix, or undercrop `container-04` while weather is cool (remove before summer heat).
   - Related: `lettuce-mesclun-mix`
+- **Up-pot makrut lime (step 1 of 3)** — move from the 6 in pot into a ~9 in pot (~1.5 gal soil) using a citrus-appropriate slightly-acidic, well-draining mix. Do this while the plant is actively growing (spring/summer). Prune lightly at the same time to start training a slender central-leader column. Final target: ~14–16 in / 7–10 gal pot, 3–4 ft tall.
+  - Related: `makrut-lime`, `container-11`
 
 ### Low priority
 

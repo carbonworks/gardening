@@ -80,6 +80,23 @@ tasks:
     related: []  # cucumber not yet in plants.yaml
     created: 2026-04-17
 
+  - id: uppot-makrut-step1
+    description: >-
+      First up-pot for the makrut lime: move from the 6 in pot into
+      a ~9 in pot (~1.5 gal soil). Use a citrus-appropriate mix —
+      slightly acidic, very well draining. Decision recorded: goal
+      is to reach 3-4 ft over several years in a slender columnar
+      form; final pot ~14-16 in (7-10 gal). Wait until roots fill
+      each stage before moving to the next.
+    priority: medium
+    status: todo
+    related: [makrut-lime, container-11]
+    created: 2026-04-17
+    notes: >-
+      Do this while the plant is actively growing (spring/summer),
+      not in winter dormancy. Prune lightly at the same time to
+      begin training the central-leader columnar shape.
+
 # Completed tasks (recent history)
 # - move to `journal.yaml` once this list gets long
 

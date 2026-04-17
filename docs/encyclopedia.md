@@ -420,10 +420,30 @@ _(Wishlist — not yet purchased.)_
 - Must come inside before first frost (~Oct 30 here). Reintroduce gradually after last frost (~Apr 15).
 - If up-potting, bump up only 2–3 inches in pot diameter at a time — citrus dislike being over-potted.
 
+**Sizing plan (our goal: 3–4 ft slender column).**
+
+| Stage | Pot | Soil | Plant size |
+|---|---|---|---|
+| Now | 6 in | ~0.5 gal | ~2 ft |
+| Step 1 | ~9 in | ~1.5 gal | ~2.5 ft |
+| Step 2 | ~12 in | ~3–4 gal | ~3 ft |
+| Step 3 (final) | ~14–16 in / 7–10 gal | ~7–10 gal | 3–4 ft |
+
+Move up a stage only when roots visibly fill the current pot — typically 1–2 years per stage. Total fresh soil needed over the full progression: ~7–10 gallons.
+
+**Shaping for a slender habit.** Keep a single **central leader**. Each late winter / early spring, before new growth:
+
+- Shorten outward-growing branches hard; keep upright branches longer.
+- Remove interior, crossing, or low/horizontal branches.
+- Aim for a narrow cone or column shape rather than a ball.
+- Light pinching of new tips during the growing season encourages a tight vertical form.
+
 **Watch for.**
 - Spider mites indoors in dry winter air (mist foliage regularly).
 - Scale insects (sticky honeydew + black sooty mold on leaves).
 - Leaf miners outdoors in summer.
 - Root rot from overwatering or poor drainage.
+
+**About the thorns.** *C. hystrix* is genuinely thorny, especially on vigorous young growth. Thorns are longer and more numerous on juvenile shoots and diminish on older, slower wood — regular pruning removes many of them, and leather gloves + long sleeves handle the rest.
 
 **Tidbit.** A makrut lime fruit yields very little juice — the plant's value is almost entirely in its fragrant leaves and the aromatic oil in the zest. A single mature plant can provide cooking leaves indefinitely with periodic harvest, which is part of why these specimens are so often kept compact in pots rather than grown to full tree size.

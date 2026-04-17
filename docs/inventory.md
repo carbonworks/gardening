@@ -48,7 +48,7 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 
 | Container | Size | Plantings | Notes |
 |---|---|---|---|
-| `container-11` | 6 in | 1× makrut lime (kaffir lime) | 6+ years old, ~2 ft tall, significantly root-restricted. Overwinters indoors. Open question: up-pot or maintain as dwarfed patio citrus. |
+| `container-11` | 6 in | 1× makrut lime (kaffir lime) | 6+ years old, ~2 ft tall. **Plan:** up-pot in stages (6 → 9 → 12 → ~14–16 in / 7–10 gal) to reach 3–4 ft, trained as a slender central-leader column. Overwinters indoors. |
 
 ## Nursery — available to plant
 

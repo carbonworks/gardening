@@ -532,11 +532,32 @@ encyclopedia:
       - Feed with a citrus-specific fertilizer during active growth (spring-summer); hold back in winter.
       - Must come inside before first frost (~Oct 30 here). Reintroduce gradually after last frost (~Apr 15).
       - If up-potting, bump up only 2-3 inches in pot diameter at a time — citrus dislike being over-potted.
+    sizing_and_shaping:
+      final_size: 3-4 ft tall, slender columnar form (our goal)
+      final_pot: ~14-16 in diameter, 7-10 gal (~1 to 1.3 cubic feet of soil)
+      up_potting_stages:
+        - 6 in -> ~9 in pot (~1.5 gal soil), plant reaches ~2.5 ft
+        - ~9 in -> ~12 in pot (~3-4 gal soil), plant reaches ~3 ft
+        - ~12 in -> ~14-16 in pot (7-10 gal soil), plant reaches 3-4 ft
+      stage_timing: Move up a stage only when roots visibly fill the current pot (usually 1-2 years for citrus).
+      total_soil_to_acquire: ~7-10 gal over the full progression.
+      shaping: >-
+        Keep a single central leader. Each late winter / early spring,
+        before new growth: shorten outward-growing branches hard, keep
+        upright ones longer, remove crossing / low / horizontal branches.
+        Aim for a narrow cone or column rather than a ball. Light
+        pinching of new tips through the growing season encourages a
+        tight vertical form.
     pest_disease:
       - Spider mites indoors in dry winter air (mist foliage regularly).
       - Scale insects (sticky honeydew + black sooty mold on leaves).
       - Leaf miners outdoors in summer.
       - Root rot from overwatering or poor drainage.
+    thorns: >-
+      Citrus hystrix is genuinely thorny, especially on vigorous young
+      growth. Thorns are longer and more numerous on juvenile shoots
+      and diminish on older, slower wood. Regular pruning removes
+      many of them; leather gloves and long sleeves handle the rest.
     tidbit: >-
       A makrut lime fruit yields very little juice — the plant's
       value is almost entirely in its fragrant leaves and the
