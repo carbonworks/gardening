@@ -8,11 +8,14 @@
 tasks:
   - id: pot-peppers
     description: >-
-      Pot up Orange Blaze and Lunch Box Orange peppers into 5 gal
-      containers with companions (1 basil + 1-2 marigolds each).
+      Set up container-03 (Orange Blaze + 1 basil + 2 marigolds) and
+      container-04 (Lunch Box Orange + 2 marigolds). Both use
+      Tomato & Pepper Mix. Place on planter-stand-1.
     priority: high
     status: todo
     related:
+      - container-03
+      - container-04
       - pepper-orange-blaze
       - pepper-lunch-box-orange
       - basil
@@ -23,38 +26,41 @@ tasks:
   - id: uppot-citronella
     description: >-
       Up-pot citronella from 6 in into next-size container (target 2-3 gal
-      interim, eventually 5 gal) using General Herb Mix. Solo pot.
+      interim, eventually 5 gal in container-06) using General Herb Mix.
+      Solo pot.
     priority: medium
     status: todo
-    related: [citronella]
+    related: [citronella, container-06]
     created: 2026-04-17
 
   - id: plant-potatoes
     description: >-
-      Plant 5 russet seed potatoes across 2-3 containers using Potato
-      Mix (no lime / no Mag-I-Cal). Chit first if not already sprouted.
+      Plant 5 russet seed potatoes: 3 in container-07 and 2 in
+      container-08 using Potato Mix (no lime / no Mag-I-Cal). Chit
+      first if not already sprouted.
     priority: medium
     status: todo
-    related: [potato-russet]
+    related: [potato-russet, container-07, container-08]
     created: 2026-04-17
     notes: We are inside the MD planting window (March-April traditional).
 
   - id: pot-lavender
     description: >-
-      Pot up Lavender 'Provence' into its own container using the
-      Mediterranean Herb Mix (lean, well-drained, slightly alkaline).
+      Set up container-05 with Lavender 'Provence' solo, using the
+      Mediterranean Herb Mix. Place on planter-stand-2.
     priority: medium
     status: todo
-    related: [lavender-provence]
+    related: [lavender-provence, container-05]
     created: 2026-04-17
 
   - id: pot-lemon-balm
     description: >-
-      Pot up 2 lemon balm plants, each in its own container (mint-family
-      rhizomes are aggressive). Use General Herb Mix.
+      Set up container-09 and container-10, each with one lemon balm
+      plant (solo; mint-family rhizomes are aggressive). Use General
+      Herb Mix. Place on the deck floor in partial-sun area.
     priority: medium
     status: todo
-    related: [lemon-balm]
+    related: [lemon-balm, container-09, container-10]
     created: 2026-04-17
 
   - id: plant-mesclun

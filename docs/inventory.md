@@ -24,10 +24,25 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 
 ## Containers — planted
 
-| Container | Size | Planted on | Plantings | Reservoir |
+| Container | Size | Planted on | Plantings | Reservoir | Soil recipe |
+|---|---|---|---|---|---|
+| `container-01` | 5 gal | 2026-04-13 | 1× Dora Red tomato, 1× Joy Red tomato, 2× marigold (Antigua Mix), 2× nasturtium seeds (heirloom) | 0.5 in clay pebbles | Tomato & Pepper Mix |
+| `container-02` | 5 gal | 2026-04-13 | 1× Hartman's Yellow Gooseberry tomato | 1 in clay pebbles | Tomato & Pepper Mix |
+
+## Containers — proposed (pre-reserved)
+
+| Container | Size | Location | Plantings | Soil recipe |
 |---|---|---|---|---|
-| `container-01` | 5 gal | 2026-04-13 | 1× Dora Red tomato, 1× Joy Red tomato, 2× marigold (Antigua Mix), 2× nasturtium seeds (heirloom) | 0.5 in clay pebbles |
-| `container-02` | 5 gal | 2026-04-13 | 1× Hartman's Yellow Gooseberry tomato | 1 in clay pebbles |
+| `container-03` | 5 gal | SSE rail / planter-stand-1 | 1× Orange Blaze pepper, 1× basil, 2× marigolds | Tomato & Pepper Mix |
+| `container-04` | 5 gal | SSE rail / planter-stand-1 | 1× Lunch Box Orange pepper, 2× marigolds (+ mesclun undercrop while cool) | Tomato & Pepper Mix |
+| `container-05` | 5 gal | SSE rail / planter-stand-2 | 1× Lavender 'Provence' solo | Mediterranean Herb Mix |
+| `container-06` | 5 gal | SSE rail / planter-stand-2 | 1× citronella (slot; actual pot will up-size over time) | General Herb Mix |
+| `container-07` | 5 gal | SSE rail / planter-stand-2 | 3× russet seed potatoes | Potato Mix |
+| `container-08` | 5 gal | SSE rail / planter-stand-2 | 2× russet seed potatoes | Potato Mix |
+| `container-09` | 5 gal | Deck floor / partial sun | 1× lemon balm solo | General Herb Mix |
+| `container-10` | 5 gal | Deck floor / partial sun | 1× lemon balm solo | General Herb Mix |
+
+**5 gal pot usage:** 2 planted + 8 proposed = 10; **2 spare** (one earmarked for cucumber when purchased).
 
 ## Nursery — available to plant
 

@@ -1,12 +1,17 @@
-# Physical containers and their current plantings.
+# Physical containers and their current or planned plantings.
 # `plant` references map to `id` values in plants.yaml.
-# `status` is one of: empty, planted, harvested.
+# `soil_recipe` references map to `id` values in mixes.yaml.
+# `status` is one of: proposed, empty, planted, harvested.
+# `location` references zones/fixtures described in layout.yaml.
 
 containers:
   - id: container-01
     size: 5 gal
+    material: plastic
     status: planted
     planted_on: 2026-04-13
+    location: sse-rail / planter-stand-1 (full sun, assumed)
+    soil_recipe: tomato-pepper-mix  # retroactively matched; actual mix at planting not recorded
     base:
       material: expanded clay pebbles
       reservoir_depth: 0.5 in
@@ -26,8 +31,11 @@ containers:
 
   - id: container-02
     size: 5 gal
+    material: plastic
     status: planted
     planted_on: 2026-04-13
+    location: sse-rail / planter-stand-1 (full sun, assumed)
+    soil_recipe: tomato-pepper-mix
     base:
       material: expanded clay pebbles
       reservoir_depth: 1 in
@@ -37,6 +45,132 @@ containers:
         quantity: 1
     notes: Indeterminate tomato planted solo.
 
-# Additional 5 gal containers exist but are currently empty.
-# Add entries (container-03, container-04, ...) with `status: empty`
-# as their exact count and state are recorded.
+  - id: container-03
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-1 (full sun)
+    soil_recipe: tomato-pepper-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually; 0.5-1 in typical
+    plantings:
+      - plant: pepper-orange-blaze
+        quantity: 1
+      - plant: basil
+        quantity: 1
+      - plant: marigold
+        quantity: 2
+    notes: Sweet pepper with basil + marigold companions.
+
+  - id: container-04
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-1 (full sun)
+    soil_recipe: tomato-pepper-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: pepper-lunch-box-orange
+        quantity: 1
+      - plant: marigold
+        quantity: 2
+    notes: >-
+      Sweet bell pepper with marigold companions. Mesclun can undercrop
+      here while weather is cool; remove before summer heat causes bolting.
+
+  - id: container-05
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-2 (full sun)
+    soil_recipe: mediterranean-herb-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually; shallow reservoir preferred for lavender (it dislikes wet roots)
+    plantings:
+      - plant: lavender-provence
+        quantity: 1
+    notes: Lavender solo. Lean, alkaline, well-drained. Avoid sharing with any other plant.
+
+  - id: container-06
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-2 (full sun)
+    soil_recipe: herb-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: citronella
+        quantity: 1
+    notes: >-
+      Slot reserved for citronella once it graduates from 6 in to an
+      interim 2-3 gal pot and then a 5 gal. Until then the physical
+      slot can be left empty or hold the interim pot.
+
+  - id: container-07
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-2 (full sun)
+    soil_recipe: potato-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: potato-russet
+        quantity: 3
+        form: seed potato
+    notes: Potatoes solo. Do NOT add lime or Mag-I-Cal (high pH risks scab).
+
+  - id: container-08
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: sse-rail / planter-stand-2 (full sun)
+    soil_recipe: potato-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: potato-russet
+        quantity: 2
+        form: seed potato
+    notes: Potatoes solo. Same recipe caveats as container-07.
+
+  - id: container-09
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: deck floor / partial sun (off planter stands)
+    soil_recipe: herb-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: lemon-balm
+        quantity: 1
+    notes: Lemon balm solo (mint-family rhizomes are aggressive).
+
+  - id: container-10
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: deck floor / partial sun (off planter stands)
+    soil_recipe: herb-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: lemon-balm
+        quantity: 1
+    notes: Lemon balm solo.
+
+# 5 gal container usage:
+#   planted:  2 (container-01, container-02)
+#   proposed: 8 (container-03 through container-10)
+#   spare:    2 of 12 total (one earmarked for cucumber when purchased)

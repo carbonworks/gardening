@@ -37,32 +37,32 @@ on the plan — only 8 of our 12 five-gallon pots fit in full-sun slots.
 
 ## Placement plan — full-sun planter stands (8 slots)
 
-Prioritizes the plants that most need 6+ hours of direct sun.
+All 8 slots are now pre-reserved in `data/containers.yaml`. Status is `planted` or `proposed`.
 
-| Slot | Pot | Plantings | Soil recipe |
-|---|---|---|---|
-| 1 | `container-01` (planted) | Dora Red + Joy Red + 2 marigolds + 2 nasturtium seeds | Tomato & Pepper Mix |
-| 2 | `container-02` (planted) | Hartman's Yellow Gooseberry tomato, solo | Tomato & Pepper Mix |
-| 3 | new 5 gal | **Pepper 'Orange Blaze'** + 1 basil + 1–2 marigolds | Tomato & Pepper Mix |
-| 4 | new 5 gal | **Pepper 'Lunch Box Orange'** + 1–2 marigolds | Tomato & Pepper Mix |
-| 5 | new 5 gal | **Lavender 'Provence'**, solo | Mediterranean Herb Mix |
-| 6 | new 5 gal | **Citronella** (keep in 6 in → 2–3 gal → 5 gal as it grows; this slot can hold the interim pot now and the 5 gal later) | General Herb Mix |
-| 7 | new 5 gal | **Potatoes:** 3 russet seed potatoes | Potato Mix (no lime / no Mag-I-Cal) |
-| 8 | new 5 gal | **Potatoes:** 2 russet seed potatoes | Potato Mix |
+| Container | Slot | Plantings | Soil recipe | Status |
+|---|---|---|---|---|
+| `container-01` | planter-stand-1 | Dora Red + Joy Red + 2 marigolds + 2 nasturtium seeds | Tomato & Pepper Mix | planted 2026-04-13 |
+| `container-02` | planter-stand-1 | Hartman's Yellow Gooseberry tomato, solo | Tomato & Pepper Mix | planted 2026-04-13 |
+| `container-03` | planter-stand-1 | **Pepper 'Orange Blaze'** + 1 basil + 2 marigolds | Tomato & Pepper Mix | proposed |
+| `container-04` | planter-stand-1 | **Pepper 'Lunch Box Orange'** + 2 marigolds (+ mesclun undercrop while cool) | Tomato & Pepper Mix | proposed |
+| `container-05` | planter-stand-2 | **Lavender 'Provence'**, solo | Mediterranean Herb Mix | proposed |
+| `container-06` | planter-stand-2 | **Citronella** (slot reserved; citronella up-pots from 6 in → 2–3 gal → 5 gal over time) | General Herb Mix | proposed |
+| `container-07` | planter-stand-2 | **3 russet seed potatoes** | Potato Mix (no lime / no Mag-I-Cal) | proposed |
+| `container-08` | planter-stand-2 | **2 russet seed potatoes** | Potato Mix | proposed |
 
-**All 5 gal pots in use after this:** 8 of 12.
+Exact slot assignment within each stand is flexible — group the two pepper pots together if you want them to cross-pollinate, and keep the potato pots side by side for easier hilling/harvest.
 
 ## Placement plan — outside the planter stands
 
-| Location | Container | Plantings | Notes |
-|---|---|---|---|
-| Deck floor (sunnier spot if possible) | existing 8 in pot | Strawberry 'Ever Sweet' | Wants full sun; place near the rail on the deck surface. |
-| Deck floor (sunnier spot if possible) | existing 12 in pot | Strawberry basket (unlabeled organic) | Same. |
-| Deck floor / partial sun | new 5 gal | Lemon balm 1, solo | Shade-tolerant. |
-| Deck floor / partial sun | new 5 gal | Lemon balm 2, solo | Shade-tolerant. |
-| South-deck area (partial sun) | shallow tray or small pot | Mesclun mix lettuce | Partial sun is actually preferred — less bolting as heat comes on. Can also undercrop pepper pots while cool. |
+| Container / item | Location | Plantings | Soil | Status |
+|---|---|---|---|---|
+| `container-09` (5 gal) | Deck floor / partial sun | 1× lemon balm, solo | General Herb Mix | proposed |
+| `container-10` (5 gal) | Deck floor / partial sun | 1× lemon balm, solo | General Herb Mix | proposed |
+| existing 8 in pot | Deck surface near rail (sunnier) | Strawberry 'Ever Sweet' | existing mix | in nursery |
+| existing 12 in pot | Deck surface near rail (sunnier) | Strawberry basket (unlabeled) | existing mix | in nursery |
+| shallow tray or small pot (TBD) | South-deck / partial sun, or as undercrop in `container-04` | Mesclun mix lettuce | Lettuce / Salad Greens Mix | needs container decision |
 
-**Remaining 5 gal pots:** 12 − 8 (stands) − 2 (lemon balm) = **2 spares** (reserve one for cucumber when purchased).
+**5 gal pot tally:** 12 total − 2 planted − 8 proposed = **2 spare** (one earmarked for cucumber when purchased).
 
 ## Plant sun requirements (quick reference)
 
@@ -75,6 +75,6 @@ Prioritizes the plants that most need 6+ hours of direct sun.
 
 ## Open questions
 
-- **Pot IDs:** proposed containers above are unassigned. Confirm when ready and we'll promote them to `container-03` .. `container-08` in `containers.yaml`.
-- **Cucumber variety:** still unselected; reserve one full-sun slot once purchased.
-- **Basil quantity:** we only have 1 starter; if both peppers get a basil companion, we need a second start.
+- **Cucumber variety:** still unselected. When purchased, it takes one of the 2 spare 5 gal pots and needs a full-sun slot — we can swap it in place of a potato pot or displace one of the lemon balm pots outward to the floor.
+- **Basil quantity:** we have 1 starter but `container-03` and `container-04` both want a basil companion. Either accept one pepper without basil, or acquire a second basil start.
+- **Mesclun container:** needs either a shallow dedicated container or a commitment to undercrop `container-04`. Undercropping is simpler, but the starters must be removed before summer heat to avoid bolting.
