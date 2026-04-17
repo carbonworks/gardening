@@ -28,7 +28,12 @@ for, and one interesting tidbit per plant.
 
 ### Flowers, greens, and fruit
 
-_(added in chunk 3)_
+- [Marigold 'Antigua Mix'](#marigold-antigua-mix)
+- [Nasturtium](#nasturtium)
+- [Mesclun mix lettuce](#mesclun-mix-lettuce)
+- [Strawberry 'Ever Sweet'](#strawberry-ever-sweet)
+- [Strawberry (unknown basket)](#strawberry-unknown-basket)
+- [Cucumber](#cucumber) _(wishlist)_
 
 ---
 
@@ -248,3 +253,145 @@ True **citronella oil** in candles and torches comes from a *different* plant: c
 **Companion role — honest version.** The plant alone does not emit enough oil to meaningfully repel mosquitoes from the surrounding air. Studies consistently find its passive repellency is minimal. *Crushing a leaf and rubbing the oil on skin* has a modest, short-term effect. The "mosquito plant" name is mostly marketing.
 
 **Tidbit.** Because 'Citrosum' is a cultivar, it does not come true from seed — commercial plants are propagated from cuttings. That's also why it has no formal species name: it's an aromatic hybrid maintained by vegetative propagation.
+
+---
+
+## Marigold 'Antigua Mix'
+
+*Tagetes erecta* (the 'Antigua' series is a compact African/American marigold) · Asteraceae · annual
+
+**Origin.** Native to Mexico and Central America — despite the common names "African" and "French," all *Tagetes* marigolds are from the Americas. Aztecs cultivated them for medicine, dye, and ceremony; they are the traditional flower of Día de los Muertos (*cempasúchil*).
+
+**Garden value.** Bright, long-blooming flowers that attract pollinators and beneficial insects (hoverflies, lacewings, ladybugs). Extremely heat-tolerant. Easy from seed or starts.
+
+**Care highlights.**
+- Full sun; deadhead spent blooms to extend flowering.
+- Not picky about soil; happy in the Tomato & Pepper Mix alongside the anchor plant.
+- Pinch back young plants once to encourage branching.
+
+**Watch for.**
+- Spider mites in very hot, dry conditions.
+- Minimal disease; occasional powdery mildew.
+
+**Companion role.** Two overlapping pest-control effects:
+
+1. **Root exudates** — specifically from *Tagetes patula* (French) and *T. minuta* — suppress root-knot nematodes. *T. erecta* (the Antigua series) has a weaker effect but is still considered helpful.
+2. **Above-ground**, the scent is credited with deterring whiteflies, some aphids, and cabbage moths, and the flowers attract predatory insects that eat pests.
+
+Marigolds are one of the most consistently supported companion plants in the research literature.
+
+**Tidbit.** Before synthetic yellow dyes, Aztecs used marigold petals to dye fabric. In the poultry industry, marigold extract is fed to hens to intensify egg-yolk color — that bright orange comes from the same pigments (lutein and zeaxanthin) in the petals.
+
+---
+
+## Nasturtium
+
+*Tropaeolum majus* · Tropaeolaceae · annual
+
+**Origin.** Native to the Andes (Peru, Bolivia, and Colombia). Brought to Europe in the 16th century alongside tomatoes and peppers.
+
+**Garden value.** Edible flowers, leaves, and seeds — all with a peppery, watercress-like bite. Easy from seed, vining or mounding habits depending on variety, and excellent as a companion and trap crop.
+
+**Care highlights.**
+- Direct-sow seeds — they resent transplanting.
+- Prefers **lean** soil; too much fertility gives more leaves and fewer flowers.
+- Full to partial sun.
+- Trailing varieties spill attractively over container edges.
+
+**Watch for.**
+- Aphids — but that's actually the point; nasturtiums are a trap crop.
+- Caterpillars (cabbage white butterflies love them).
+- Generally healthy otherwise.
+
+**Companion role.** Classic **trap crop** for aphids — aphids preferentially colonize nasturtium, pulling them off your tomatoes and peppers. Also deters squash bugs and whiteflies, and attracts hoverflies and predatory wasps that eat other pests.
+
+**Tidbit.** The name "nasturtium" is Latin for "nose-twister," referring to the peppery flavor. The unripe green seed pods can be pickled in brine and vinegar as "poor man's capers" — a genuinely good substitute. Biochemically the heat comes from mustard-oil glucosinolates, the same compounds in horseradish and wasabi.
+
+---
+
+## Mesclun mix lettuce
+
+Typically *Lactuca sativa* blended with greens from Brassicaceae (arugula, mustards, mizuna) and others · mostly Asteraceae with Brassicaceae mixed in · cool-season annual · ~25–30 days to baby leaves
+
+**Origin.** The word "mesclun" is Provençal French for "mixture," traditionally a baby-green blend harvested around Nice. The individual species come from across Eurasia — lettuce from the Mediterranean, arugula from southern Europe, mizuna from Japan, and so on.
+
+**Garden value.** Fast, productive, and cut-and-come-again. Ideal in a partial-sun spot and great as an undercrop beneath slower, taller plants while weather is cool.
+
+**Care highlights.**
+- **Cool-weather crop** — bolts (goes to seed) in hot sun. In the Mid-Atlantic, spring (March–May) and fall (September–October) are the sweet spots.
+- Keep soil consistently moist — lettuce gets bitter when stressed.
+- Harvest outer leaves or cut the whole rosette 1 inch above the crown for regrowth.
+- Succession-sow every 2–3 weeks for continuous harvest.
+
+**Watch for.**
+- Slugs and snails (less of a concern on a 4th-floor deck).
+- Aphids on young growth.
+- Downy mildew in wet weather.
+
+**Tidbit.** "Mesclun" and the English word "miscellaneous" share the same Latin root — *miscere*, "to mix." The traditional Niçois blend included chervil, arugula, lettuce, and endive in a specific ratio; modern mixes vary widely.
+
+---
+
+## Strawberry 'Ever Sweet'
+
+*Fragaria* × *ananassa* 'Ever Sweet' · Rosaceae (rose family) · perennial (day-neutral type)
+
+**Origin.** The modern garden strawberry is a hybrid that arose in 18th-century France from two New World species: *F. virginiana* (eastern North America) and *F. chiloensis* (western South America). 'Ever Sweet' is a day-neutral cultivar bred for summer heat tolerance and continuous fruiting.
+
+**Garden value.** Day-neutral strawberries fruit continuously through the growing season rather than in one big June flush, which suits small container gardens where you want a steady supply of a few berries at a time.
+
+**Care highlights.**
+- Slightly acidic soil (pH 5.5–6.5). Our base mix is slightly alkaline from mushroom compost; an annual topdress of peat or pine fines helps.
+- Consistent moisture; uneven watering gives small, malformed berries.
+- Pinch the first flush of flowers on new plants so energy goes into root establishment.
+- Mulch with straw or pine needles to keep berries off the soil (the name "strawberry" likely comes from this practice).
+
+**Watch for.**
+- Slugs, birds (netting helps), spider mites in heat.
+- Gray mold (*Botrytis*) on fruit in wet weather.
+- Crown rot from overwatering.
+
+**Tidbit.** Strawberries are not true berries botanically — they are "accessory fruits," where the fleshy red part is swollen receptacle tissue. The real fruits are the tiny seed-like structures (achenes) on the outside. A typical strawberry has ~200 actual fruits stuck to a single swollen stem tip.
+
+---
+
+## Strawberry (unknown basket)
+
+*Fragaria* × *ananassa* (cultivar unknown) · Rosaceae · perennial
+
+**Origin.** Same species history as Ever Sweet.
+
+**Garden value.** Pre-planted organic basket bought without a variety label. Observing its behavior this season will tell us what we have:
+
+- Producing one big flush of fruit in June → June-bearing.
+- Steady fruiting through the summer → day-neutral or everbearing.
+- Lots of long-running offshoots → June-bearing (they are the biggest runner producers).
+
+**Care highlights / Watch for.** Same as Ever Sweet.
+
+**Tidbit.** If you see offshoots on long stems ("runners"), those can be pinned into small pots of soil and will root into new plants — free propagation.
+
+---
+
+## Cucumber
+
+_(Wishlist — not yet purchased.)_
+
+*Cucumis sativus* · Cucurbitaceae (cucurbit / gourd family) · tender annual · ~50–65 days from transplant
+
+**Origin.** Native to India and cultivated there for at least 3,000 years. Spread to China and the Mediterranean in antiquity; Romans grew cucumbers year-round under translucent stone or oiled cloth — a very early form of greenhouse.
+
+**Garden value.** Prolific, fast, rewarding. A well-tended cucumber vine can produce a cuke every few days for weeks.
+
+**Care highlights.**
+- Full sun, consistent moisture, **heavy feeder**.
+- Trellis vertically — saves space and keeps fruit straight and clean.
+- Inconsistent water produces bitter cucumbers.
+- Pick frequently; leaving one fruit to mature signals the plant to stop producing.
+
+**Watch for.**
+- **Cucumber beetles** (striped yellow-and-black) — they vector bacterial wilt, which is lethal. Row cover until flowering, then remove.
+- Powdery mildew (very common in humid Mid-Atlantic late summer).
+- Squash vine borer occasionally.
+
+**Tidbit.** A cucumber fruit is botanically a "pepo" — the same berry-with-a-leathery-rind type as melons, pumpkins, and watermelons. The cucumber is ~95% water, and the Roman emperor Tiberius reportedly insisted on eating them every day of the year, which drove the early Roman greenhouse innovation.
