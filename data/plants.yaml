@@ -24,15 +24,15 @@ plants:
     notes: null
 
   - id: marigold
-    common_name: Marigold
+    common_name: Marigold 'Antigua Mix'
     type: companion-flower
-    variety: null  # specific cultivar not yet recorded
+    variety: Antigua Mix
     role: companion planting with tomatoes
 
   - id: nasturtium
-    common_name: Nasturtium
+    common_name: Nasturtium (heirloom)
     type: companion-flower
-    variety: null  # specific cultivar not yet recorded
+    variety: heirloom  # listed only as heirloom; specific cultivar unknown
     role: companion planting with tomatoes
 
   - id: lemon-balm

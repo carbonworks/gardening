@@ -6,6 +6,7 @@ containers:
   - id: container-01
     size: 5 gal
     status: planted
+    planted_on: 2026-04-13
     base:
       material: expanded clay pebbles
       reservoir_depth: 0.5 in
@@ -26,6 +27,7 @@ containers:
   - id: container-02
     size: 5 gal
     status: planted
+    planted_on: 2026-04-13
     base:
       material: expanded clay pebbles
       reservoir_depth: 1 in
