@@ -4,26 +4,27 @@
 # mixing from raw components each time.
 
 mixes:
-  - id: base-coco-peat-50-50
-    name: 50/50 Coco Coir + Peat Moss Base
+  - id: base-mushroom-coco-peat
+    name: Mushroom / Coco / Peat Base
     status: premixed-stock
+    quantity_on_hand: ~10 gal
     components:
+      - supply: wild-mushroom-blend
+        ratio: 0.5
       - supply: coco-coir
-        ratio: 0.5
+        ratio: 0.25
       - supply: peat-moss
-        ratio: 0.5
+        ratio: 0.25
     usage: Starting base for all soil recipes.
-    notes: Large premixed quantity on hand.
+    notes: 50% mushroom compost, 25% coco coir, 25% peat moss.
 
 # Finished soil recipes (built on top of a base mix) can be added below
 # as they are defined, e.g.:
 #
 # recipes:
 #   - id: tomato-mix-v1
-#     base: base-coco-peat-50-50
+#     base: base-mushroom-coco-peat
 #     additions:
-#       - supply: wild-mushroom-blend
-#         ratio: 0.2
 #       - supply: perlite
 #         ratio: 0.1
 #       - supply: mag-i-cal

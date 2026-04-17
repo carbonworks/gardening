@@ -30,7 +30,8 @@ nursery:
 
   - plant: lettuce-mesclun-mix
     quantity: 6
-    pot_size: null  # pot size not recorded
+    pot_size: 1 in
+    notes: 1 inch starter cells.
 
   - plant: strawberry-unknown-basket
     quantity: 1
