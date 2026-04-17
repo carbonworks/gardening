@@ -1,0 +1,164 @@
+# Encyclopedia entries for each plant we grow or plan to grow.
+# Intended to be reference material, not deep reading. Rendered to
+# docs/encyclopedia.md. `plant` matches an id in plants.yaml.
+#
+# Field conventions:
+#   scientific_name / family / origin  — short botanical facts
+#   growth_habit / days_to_maturity    — for food crops
+#   garden_value                       — what this plant contributes
+#   care_highlights                    — key care notes for our setup
+#   pest_disease                       — things to watch for
+#   companion_role                     — for companions/non-edibles
+#   tidbit                             — something fun/interesting
+
+encyclopedia:
+  - plant: tomato-dora-red
+    scientific_name: Solanum lycopersicum
+    family: Solanaceae (nightshade family)
+    origin: >-
+      Domesticated from wild species in western South America
+      (the Andes of Peru and Ecuador) and further developed in
+      Mesoamerica. Reached Europe in the 16th century and was long
+      thought poisonous because of its nightshade relatives.
+    growth_habit: Determinate bush (compact, self-limiting height)
+    days_to_maturity: ~65-70 days from transplant (typical for small determinates)
+    garden_value: >-
+      Determinate tomatoes ripen most of their fruit in a
+      concentrated window, which is convenient for small spaces
+      and for preserving.
+    care_highlights:
+      - Consistent moisture; irregular watering causes splitting and blossom end rot.
+      - Cage or short stake (they self-limit but still benefit from support).
+      - Mulch to stabilize soil moisture and suppress soil splash (reduces disease).
+      - Avoid overhead watering; wet leaves invite fungal disease.
+    pest_disease:
+      - Tomato hornworm (large green caterpillar; handpick)
+      - Aphids (sprayed off or managed with beneficials)
+      - Early blight and septoria leaf spot (mulch + airflow help)
+      - Blossom end rot (calcium deficiency, often from inconsistent water rather than lack of calcium)
+    tidbit: >-
+      "Dora Red" is not a widely documented cultivar — treat it as a
+      generic small determinate bush tomato. If it performs notably,
+      log observations in the journal so we can characterize it
+      ourselves.
+
+  - plant: tomato-joy-red
+    scientific_name: Solanum lycopersicum
+    family: Solanaceae (nightshade family)
+    origin: See Dora Red — same species, same Andean / Mesoamerican ancestry.
+    growth_habit: Determinate bush
+    days_to_maturity: ~65-70 days from transplant (typical)
+    garden_value: Same profile as Dora Red; planted together for a paired determinate harvest.
+    care_highlights:
+      - Same as Dora Red.
+    pest_disease:
+      - Same as Dora Red.
+    tidbit: >-
+      Also a lightly documented cultivar. "Joy" is more commonly
+      encountered as a cherry-tomato line; confirm the specific
+      cultivar from the seed/start source when convenient.
+
+  - plant: tomato-hartmans-yellow-gooseberry
+    scientific_name: Solanum lycopersicum (var. cerasiforme - cherry type)
+    family: Solanaceae
+    origin: >-
+      An heirloom cherry/currant-type tomato preserved by seed-saving
+      communities. The "gooseberry" in the name refers to the
+      gooseberry-sized fruit, not the gooseberry plant.
+    growth_habit: Indeterminate vine (keeps growing and fruiting until frost)
+    days_to_maturity: ~70-75 days from transplant
+    garden_value: >-
+      Small, sweet, pale yellow fruits produced in big clusters over
+      a long season. Indeterminate vines reward strong support and
+      regular pruning.
+    care_highlights:
+      - Stake heavily or use a tall cage — indeterminates can reach 6-8 ft.
+      - Prune "suckers" (side shoots in the crotch between stem and branch) for airflow and fruit quality.
+      - On a windy 4th-floor deck, tying regularly to a sturdy stake is important.
+      - Consistent moisture, mulch, avoid overhead water (same as determinates).
+    pest_disease:
+      - Same pest/disease list as determinate tomatoes.
+      - More susceptible to late-season foliage disease because the plant lives longer.
+    tidbit: >-
+      Heirloom cherries like this are often sweeter and more intensely
+      flavored than grocery tomatoes because they concentrate sugars
+      in a smaller fruit. Yellow tomatoes are typically lower in acid
+      than reds.
+
+  - plant: pepper-orange-blaze
+    scientific_name: Capsicum annuum
+    family: Solanaceae (same family as tomatoes)
+    origin: >-
+      Peppers were domesticated in Mexico and Central America roughly
+      6,000 years ago. C. annuum is the species that includes bell
+      peppers, jalapeños, and most common garden peppers.
+    growth_habit: Compact bush, ~18-24 in tall
+    days_to_maturity: ~65 days green, ~85 days fully ripe orange
+    garden_value: >-
+      Burpee-introduced sweet pepper with 4 inch, elongated orange
+      fruits and a sweet, mild flavor. Early-maturing compared with
+      full-size bells, which is useful in a 6-hour sun window.
+    care_highlights:
+      - Loves heat; do not rush outdoors — wait until consistent overnight lows above 55 F.
+      - Calcium (via the Mag-I-Cal in the Tomato & Pepper Mix) helps prevent blossom end rot.
+      - Mulch to stabilize moisture; inconsistent water causes fruit drop.
+      - Pinch the first few flowers on small transplants to encourage root establishment before fruiting.
+    pest_disease:
+      - Aphids, thrips, pepper hornworm
+      - Blossom end rot (same mechanism as tomatoes)
+      - Bacterial leaf spot in humid weather
+    tidbit: >-
+      All bell-type peppers start green and change color as they
+      ripen — the red, yellow, orange, and purple peppers in the
+      store are just the same pepper at different ripeness stages.
+      Fully ripe peppers are sweeter and higher in vitamin C.
+
+  - plant: pepper-lunch-box-orange
+    scientific_name: Capsicum annuum
+    family: Solanaceae
+    origin: Same species history as Orange Blaze.
+    growth_habit: Compact bush, prolific
+    days_to_maturity: ~75 days to orange
+    garden_value: >-
+      Mini sweet pepper, 2-3 inches long, snack-sized. Bred for
+      container growing and heavy production. The "Lunch Box" series
+      comes in red, yellow, and orange colors.
+    care_highlights:
+      - Same as Orange Blaze.
+      - Mini peppers often yield 30+ fruits per plant in a good season; keep up with feeding.
+    pest_disease:
+      - Same as Orange Blaze.
+    tidbit: >-
+      Mini sweet peppers got their start as a deliberate breeding
+      effort in the early 2000s to create a snack-food category —
+      the "grape tomato" of the pepper world.
+
+  - plant: potato-russet
+    scientific_name: Solanum tuberosum
+    family: Solanaceae (same family as tomatoes and peppers — hence the don't-share-pots rule)
+    origin: >-
+      Domesticated in the Andes (Peru/Bolivia) 7,000-10,000 years
+      ago. Brought to Europe by the Spanish in the late 1500s and
+      became a global staple. The Irish Potato Famine (1845-1852)
+      was caused by Phytophthora infestans — the same late-blight
+      pathogen that affects tomatoes.
+    growth_habit: Bushy above ground; edible tubers develop underground along the stem
+    days_to_maturity: ~90-120 days depending on variety
+    garden_value: >-
+      "Russet" is a group of varieties with rough brown skin and
+      dry, starchy white flesh — good for baking and frying.
+      Russet Burbank is the most famous (the commercial fry potato).
+    care_highlights:
+      - Plant "chitted" (pre-sprouted) seed potatoes eyes-up.
+      - Hill soil up around the stems as plants grow — tubers form along the buried stem, so more buried stem = more potatoes.
+      - Slightly acidic soil (pH 5.0-6.0); DO NOT add lime or Mag-I-Cal.
+      - Harvest when the tops yellow and die back. Cure in a dark, airy place for a week before storing.
+    pest_disease:
+      - Colorado potato beetle (striped yellow beetle; handpick)
+      - Late blight (Phytophthora infestans) — do not plant near tomatoes
+      - Potato scab — worse at high pH (another reason to avoid lime)
+    tidbit: >-
+      The "eyes" on a potato are dormant buds. A seed potato is just
+      a potato grown specifically to be planted rather than eaten.
+      Green potatoes (exposed to light) contain solanine and should
+      not be eaten — hilling keeps tubers covered and prevents this.

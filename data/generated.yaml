@@ -64,3 +64,12 @@ generated_docs:
     sources:
       - data/journal.yaml
     last_generated: 2026-04-17
+
+  - path: docs/encyclopedia.md
+    description: >-
+      Short encyclopedia entries per plant — botanical background,
+      garden value, care, pests/disease, and a tidbit each.
+    sources:
+      - data/encyclopedia.yaml
+      - data/plants.yaml
+    last_generated: 2026-04-17

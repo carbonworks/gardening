@@ -17,6 +17,7 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 - [`docs/tasks.md`](docs/tasks.md) — open work and recent completions
 - [`docs/journal.md`](docs/journal.md) — dated observations and events
 - [`docs/calendar.md`](docs/calendar.md) — month-by-month garden task calendar
+- [`docs/encyclopedia.md`](docs/encyclopedia.md) — short reference entry for every plant
 
 ## Data files
 
@@ -30,6 +31,7 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 - `data/mixes.yaml` — premixed soil bases and per-plant soil recipes
 - `data/companions.yaml` — pot-sharing / companion planting knowledge
 - `data/calendar.yaml` — month-by-month garden tasks
+- `data/encyclopedia.yaml` — reference entries per plant
 - `data/tasks.yaml` — open work and recent completions
 - `data/journal.yaml` — dated observations and events
 - `data/generated.yaml` — registry of every generated doc and its data sources
