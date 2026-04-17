@@ -1,0 +1,71 @@
+# Physical layout of the growing area.
+# Describes where pots actually sit, how much sun each zone gets, and
+# capacity constraints. Informs docs/planting-strategy.md.
+
+deck:
+  building: 4th-floor townhome (half roof deck)
+  orientation: SSE-facing
+  wind_exposure: >-
+    Elevated location; expect more wind than at ground level. Stake
+    tall plants (indeterminate tomatoes, pepper branches) and consider
+    securing the planter stands.
+  weight_note: >-
+    12 wet 5 gal pots weigh ~600-700 lbs total. Confirm deck load
+    rating before placing all planters in one spot.
+
+zones:
+  - id: sse-rail
+    description: Against the SSE-facing roof-deck rail.
+    fixtures:
+      - id: planter-stand-1
+        type: 4-slot planter stand (holds 4 x 5 gal pots)
+        capacity: 4
+      - id: planter-stand-2
+        type: 4-slot planter stand (holds 4 x 5 gal pots)
+        capacity: 4
+    total_5gal_slots: 8
+    sun:
+      hours_direct: 6
+      window: 10:00 - 16:00
+      category: full sun
+      notes: >-
+        Roof line blocks early morning sun; backyard trees block late
+        afternoon. The 6-hour window meets the minimum "full sun"
+        threshold for heat-loving crops.
+
+  - id: south-deck
+    description: South side of the deck (floor area).
+    fixtures: []
+    sun:
+      hours_direct: ~2-3
+      window: brief, around midday (hottest part of day)
+      category: partial sun / mostly shade
+      notes: >-
+        Short but intense midday exposure. Good for shade-tolerant
+        plants that still want some light; risky for cool-season
+        greens because the sunny interval coincides with peak heat.
+
+  - id: deck-floor-other
+    description: Deck floor space outside the two planter stands and the south area.
+    fixtures: []
+    sun:
+      category: varies
+      notes: Depends on exact placement; plan case by case.
+
+# Rough sun preference lookup used by the planting strategy doc.
+sun_preferences:
+  full_sun:   # 6+ hours direct
+    - tomato
+    - pepper
+    - citronella
+    - lavender-provence
+    - potato-russet
+    - strawberry-ever-sweet
+    - strawberry-unknown-basket
+    - cucumber
+    - marigold
+    - basil
+    - nasturtium
+  partial_sun:   # 3-6 hours, or prefer some afternoon shade
+    - lemon-balm
+    - lettuce-mesclun-mix

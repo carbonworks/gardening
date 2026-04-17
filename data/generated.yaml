@@ -9,10 +9,11 @@
 generated_docs:
   - path: docs/inventory.md
     description: >-
-      Snapshot of everything we have: site, plants, containers,
-      nursery, supplies, base mixes, wishlist.
+      Snapshot of everything we have: site, growing area, plants,
+      containers, nursery, supplies, base mixes, wishlist.
     sources:
       - data/site.yaml
+      - data/layout.yaml
       - data/plants.yaml
       - data/containers.yaml
       - data/nursery.yaml
@@ -40,10 +41,12 @@ generated_docs:
 
   - path: docs/planting-strategy.md
     description: >-
-      Companion planting principles and the concrete plan for which
-      plants share pots vs. grow solo in our current lineup.
+      Companion planting principles, physical layout/sun zones, and the
+      concrete plan for which plants share pots vs. grow solo, and
+      where each pot sits on the deck.
     sources:
       - data/companions.yaml
+      - data/layout.yaml
       - data/plants.yaml
       - data/containers.yaml
       - data/nursery.yaml

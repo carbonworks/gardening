@@ -14,6 +14,14 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 - **First fall frost (avg):** ~October 30
 - **Growing season:** ~195 days
 
+### Growing area
+
+- **Deck:** 4th-floor townhome half roof deck, SSE-facing.
+- **Main growing zone:** 2 × 4-slot planter stands against the SSE rail — **8 five-gallon slots, full sun 10am–4pm** (~6 hours direct).
+- **South side of deck:** partial sun / mostly shade with a brief midday sun window.
+- **Wind:** elevated; stake tall plants.
+- See [`docs/planting-strategy.md`](planting-strategy.md) for pot placement.
+
 ## Containers — planted
 
 | Container | Size | Planted on | Plantings | Reservoir |

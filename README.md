@@ -21,6 +21,7 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 ## Data files
 
 - `data/site.yaml` — location, hardiness zone, frost dates
+- `data/layout.yaml` — physical growing area: deck, planter stands, sun zones
 - `data/plants.yaml` — catalog of plant varieties
 - `data/containers.yaml` — physical containers and their plantings
 - `data/nursery.yaml` — plants in starter pots, available to be planted out
