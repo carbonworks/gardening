@@ -1,0 +1,42 @@
+# Plants currently held in starter / nursery pots, available for planting.
+# `plant` references map to `id` values in plants.yaml.
+# When an item is moved to a final container, remove it here and add it to
+# the matching container in containers.yaml.
+
+nursery:
+  - plant: lemon-balm
+    quantity: 2
+    pot_size: 2 in
+
+  - plant: lavender-provence
+    quantity: 1
+    pot_size: 2 in
+
+  - plant: marigold
+    quantity: 5
+    pot_size: 1 in
+
+  - plant: pepper-orange-blaze
+    quantity: 1
+    pot_size: 4 in
+
+  - plant: pepper-lunch-box-orange
+    quantity: 1
+    pot_size: 4 in
+
+  - plant: basil
+    quantity: 1
+    pot_size: 2 in
+
+  - plant: lettuce-mesclun-mix
+    quantity: 6
+    pot_size: null  # pot size not recorded
+
+  - plant: strawberry-unknown-basket
+    quantity: 1
+    pot_size: 12 in
+    notes: Already planted as a basket; may stay in current pot.
+
+  - plant: strawberry-ever-sweet
+    quantity: 1
+    pot_size: 8 in

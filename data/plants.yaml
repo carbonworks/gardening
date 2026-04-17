@@ -34,3 +34,47 @@ plants:
     type: companion-flower
     variety: null  # specific cultivar not yet recorded
     role: companion planting with tomatoes
+
+  - id: lemon-balm
+    common_name: Lemon Balm
+    type: herb
+    notes: null
+
+  - id: lavender-provence
+    common_name: Lavender 'Provence'
+    type: herb
+    variety: Provence
+    notes: null
+
+  - id: basil
+    common_name: Basil
+    type: herb
+    variety: null  # specific cultivar not yet recorded
+    notes: null
+
+  - id: pepper-orange-blaze
+    common_name: Orange Blaze
+    type: sweet-pepper
+    notes: Burpee sweet pepper variety; confirm if user intended a different "Orange Blaze".
+
+  - id: pepper-lunch-box-orange
+    common_name: Lunch Box Orange
+    type: sweet-bell-pepper
+    notes: null
+
+  - id: lettuce-mesclun-mix
+    common_name: Mesclun Mix Lettuce
+    type: lettuce
+    notes: Mixed-variety salad greens blend.
+
+  - id: strawberry-ever-sweet
+    common_name: Ever Sweet Strawberry
+    type: strawberry
+    variety: Ever Sweet
+    notes: null
+
+  - id: strawberry-unknown-basket
+    common_name: Strawberry (organic, basket)
+    type: strawberry
+    variety: null  # variety not listed on basket
+    notes: Pre-planted organic strawberry basket; variety unknown.
