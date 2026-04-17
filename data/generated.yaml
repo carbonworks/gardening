@@ -1,0 +1,39 @@
+# Registry of generated docs.
+#
+# Each entry lists a markdown file under docs/ and the data files it is
+# generated from. After modifying any of the listed sources, regenerate
+# the corresponding doc and bump its `last_generated` date.
+#
+# See CLAUDE.md for the full workflow.
+
+generated_docs:
+  - path: docs/inventory.md
+    description: >-
+      Snapshot of everything we have: site, plants, containers,
+      nursery, supplies, base mixes, wishlist.
+    sources:
+      - data/site.yaml
+      - data/plants.yaml
+      - data/containers.yaml
+      - data/nursery.yaml
+      - data/wishlist.yaml
+      - data/supplies.yaml
+      - data/mixes.yaml
+    last_generated: 2026-04-17
+
+  - path: docs/soil-recipes.md
+    description: >-
+      Soil base and per-plant soil recipes with measurements and pH
+      targets.
+    sources:
+      - data/mixes.yaml
+      - data/plants.yaml
+      - data/supplies.yaml
+    last_generated: 2026-04-17
+
+  - path: docs/calendar.md
+    description: Month-by-month garden tasks tuned for our site.
+    sources:
+      - data/site.yaml
+      - data/calendar.yaml
+    last_generated: 2026-04-17

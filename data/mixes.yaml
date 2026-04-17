@@ -1,7 +1,8 @@
-# Premixed soil blends kept in stock, and recipes that build on them.
+# Premixed soil blends and finished soil recipes.
 # `supply` references map to `id` values in supplies.yaml.
-# Any soil recipe should start from a `premixed-stock` base rather than
-# mixing from raw components each time.
+# `applies_to` references map to `id` values in plants.yaml.
+# Every recipe starts from a `premixed-stock` base rather than mixing
+# from raw components each time.
 
 mixes:
   - id: base-mushroom-coco-peat
@@ -18,14 +19,103 @@ mixes:
     usage: Starting base for all soil recipes.
     notes: 50% mushroom compost, 25% coco coir, 25% peat moss.
 
-# Finished soil recipes (built on top of a base mix) can be added below
-# as they are defined, e.g.:
-#
-# recipes:
-#   - id: tomato-mix-v1
-#     base: base-mushroom-coco-peat
-#     additions:
-#       - supply: perlite
-#         ratio: 0.1
-#       - supply: mag-i-cal
-#         amount: "1 tbsp per gal"
+recipes:
+  - id: tomato-pepper-mix
+    name: Tomato & Pepper Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.10
+      - supply: mag-i-cal
+        amount: 1 tbsp per gallon of finished mix
+    applies_to:
+      - tomato-dora-red
+      - tomato-joy-red
+      - tomato-hartmans-yellow-gooseberry
+      - pepper-orange-blaze
+      - pepper-lunch-box-orange
+    target_ph: 6.0 - 6.8
+    notes: Calcium from Mag-I-Cal helps prevent blossom end rot.
+
+  - id: herb-mix
+    name: General Herb Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.10
+    applies_to:
+      - basil
+      - lemon-balm
+    target_ph: 6.0 - 7.0
+    notes: Moderate drainage. Suitable for most culinary herbs.
+
+  - id: mediterranean-herb-mix
+    name: Mediterranean Herb Mix (lavender)
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.30
+      - supply: vermiculite
+        ratio: 0.10
+      - supply: garden-lime
+        amount: 1 tbsp per gallon of finished mix
+    applies_to:
+      - lavender-provence
+    target_ph: 6.5 - 7.5
+    notes: >-
+      Heavy drainage, lean, slightly alkaline. Lavender dislikes rich,
+      moisture-retentive soils.
+
+  - id: lettuce-greens-mix
+    name: Lettuce / Salad Greens Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: vermiculite
+        ratio: 0.10
+      - supply: perlite
+        ratio: 0.10
+    applies_to:
+      - lettuce-mesclun-mix
+    target_ph: 6.0 - 7.0
+    notes: Extra moisture retention for shallow-rooted greens.
+
+  - id: potato-mix
+    name: Potato Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.15
+    avoid:
+      - supply: garden-lime
+        reason: Potatoes prefer slightly acidic soil; high pH encourages scab.
+      - supply: mag-i-cal
+        reason: Same — raises pH and risks scab.
+    applies_to:
+      - potato-russet
+    target_ph: 5.0 - 6.0
+    notes: Loose and well-drained. Skip lime/Mag-I-Cal entirely.
+
+  - id: cucumber-mix
+    name: Cucumber Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.10
+      - supply: mag-i-cal
+        amount: 1 tbsp per gallon of finished mix
+    applies_to:
+      - cucumber  # wishlist entry; no plants.yaml id yet
+    target_ph: 6.0 - 7.0
+    notes: Similar profile to tomatoes/peppers; heavy feeder.
+
+  - id: marigold-mix
+    name: Marigold Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.10
+    applies_to:
+      - marigold
+    target_ph: 6.0 - 7.0
+    notes: Adaptable. Same as general herb mix; kept separate in case
+      marigold-specific tweaks emerge.
