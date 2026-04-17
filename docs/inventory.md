@@ -44,6 +44,12 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 
 **5 gal pot usage:** 2 planted + 8 proposed = 10; **2 spare** (one earmarked for cucumber when purchased).
 
+## Other established containers
+
+| Container | Size | Plantings | Notes |
+|---|---|---|---|
+| `container-11` | 6 in | 1× kaffir lime (makrut lime) | 6+ years old, ~2 ft tall, significantly root-restricted. Overwinters indoors. Open question: up-pot or maintain as dwarfed patio citrus. |
+
 ## Nursery — available to plant
 
 | Plant | Quantity | Pot size | Notes |

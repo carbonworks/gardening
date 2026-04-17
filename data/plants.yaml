@@ -94,3 +94,14 @@ plants:
     type: scented-plant
     variety: null  # usually Pelargonium 'Citrosum' ("mosquito plant"); could also be true citronella grass (Cymbopogon nardus). Clarify if known.
     notes: Recently up-potted from 4 in to 6 in; growing vigorously. Goal is to maximize size.
+
+  - id: kaffir-lime
+    common_name: Kaffir Lime (also known as Makrut Lime)
+    type: citrus-tree
+    variety: null  # specific cultivar not recorded
+    notes: >-
+      6+ years old, currently in a 6 in pot and ~2 ft tall.
+      Significantly root-restricted at this pot size (bonsai-level
+      dwarfing); up-potting would allow renewed growth, or keep
+      current size as a dwarfed patio citrus. Must overwinter
+      indoors in zone 7b.
