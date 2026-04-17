@@ -1,0 +1,17 @@
+# Inventory of growing supplies: substrates, amendments, hardware.
+
+supplies:
+  - id: expanded-clay-pebbles
+    name: Expanded clay pebbles (LECA)
+    category: substrate
+    used_for: reservoir / drainage layer at bottom of containers
+    in_use:
+      - container-01
+      - container-02
+
+  - id: container-5gal
+    name: 5 gallon container
+    category: container
+    size: 5 gal
+    quantity_total: null  # total count on hand not yet recorded
+    quantity_in_use: 2

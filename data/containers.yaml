@@ -1,0 +1,40 @@
+# Physical containers and their current plantings.
+# `plant` references map to `id` values in plants.yaml.
+# `status` is one of: empty, planted, harvested.
+
+containers:
+  - id: container-01
+    size: 5 gal
+    status: planted
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: 0.5 in
+      purpose: catch excess water at the bottom
+    plantings:
+      - plant: tomato-dora-red
+        quantity: 1
+      - plant: tomato-joy-red
+        quantity: 1
+      - plant: marigold
+        quantity: 2
+        form: seedling-or-plant  # clarify when known
+      - plant: nasturtium
+        quantity: 2
+        form: seed
+    notes: Two determinate bush tomatoes co-planted with companion flowers.
+
+  - id: container-02
+    size: 5 gal
+    status: planted
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: 1 in
+      purpose: catch excess water at the bottom
+    plantings:
+      - plant: tomato-hartmans-yellow-gooseberry
+        quantity: 1
+    notes: Indeterminate tomato planted solo.
+
+# Additional 5 gal containers exist but are currently empty.
+# Add entries (container-03, container-04, ...) with `status: empty`
+# as their exact count and state are recorded.

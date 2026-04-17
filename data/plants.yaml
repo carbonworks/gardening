@@ -1,0 +1,36 @@
+# Catalog of plant varieties / strains.
+# Add an entry here before referencing it from containers.yaml.
+
+plants:
+  - id: tomato-dora-red
+    common_name: Dora Red
+    type: tomato
+    growth_habit: determinate
+    form: bush
+    notes: Smaller determinate bush tomato.
+
+  - id: tomato-joy-red
+    common_name: Joy Red
+    type: tomato
+    growth_habit: determinate
+    form: bush
+    notes: Smaller determinate bush tomato.
+
+  - id: tomato-hartmans-yellow-gooseberry
+    common_name: Hartman's Yellow Gooseberry
+    type: tomato
+    growth_habit: indeterminate
+    form: vine
+    notes: null
+
+  - id: marigold
+    common_name: Marigold
+    type: companion-flower
+    variety: null  # specific cultivar not yet recorded
+    role: companion planting with tomatoes
+
+  - id: nasturtium
+    common_name: Nasturtium
+    type: companion-flower
+    variety: null  # specific cultivar not yet recorded
+    role: companion planting with tomatoes
