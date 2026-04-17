@@ -1,0 +1,30 @@
+# Premixed soil blends kept in stock, and recipes that build on them.
+# `supply` references map to `id` values in supplies.yaml.
+# Any soil recipe should start from a `premixed-stock` base rather than
+# mixing from raw components each time.
+
+mixes:
+  - id: base-coco-peat-50-50
+    name: 50/50 Coco Coir + Peat Moss Base
+    status: premixed-stock
+    components:
+      - supply: coco-coir
+        ratio: 0.5
+      - supply: peat-moss
+        ratio: 0.5
+    usage: Starting base for all soil recipes.
+    notes: Large premixed quantity on hand.
+
+# Finished soil recipes (built on top of a base mix) can be added below
+# as they are defined, e.g.:
+#
+# recipes:
+#   - id: tomato-mix-v1
+#     base: base-coco-peat-50-50
+#     additions:
+#       - supply: wild-mushroom-blend
+#         ratio: 0.2
+#       - supply: perlite
+#         ratio: 0.1
+#       - supply: mag-i-cal
+#         amount: "1 tbsp per gal"

@@ -8,6 +8,7 @@ Organizational system for tracking plants, containers, and supplies.
 - `data/containers.yaml` — physical containers and what is planted in each
 - `data/nursery.yaml` — plants in starter pots, available to be planted out
 - `data/supplies.yaml` — inventory of growing supplies (pebbles, soil, amendments)
+- `data/mixes.yaml` — premixed soil bases and soil recipes that build on them
 
 Data files are YAML so they are easy to read and edit by hand while still being
 structured enough to query or render programmatically later.

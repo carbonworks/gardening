@@ -1,6 +1,18 @@
-# Inventory of growing supplies: substrates, amendments, hardware.
+# Inventory of growing supplies: substrates, amendments, composts, hardware.
+# `id` values are referenced by mixes.yaml and future soil recipes.
 
 supplies:
+  # --- Substrates (bulk soil-like components) ---
+  - id: coco-coir
+    name: Coco coir (brick form)
+    category: substrate
+    notes: Compressed brick; hydrate before use.
+
+  - id: peat-moss
+    name: Peat moss
+    category: substrate
+    notes: null
+
   - id: expanded-clay-pebbles
     name: Expanded clay pebbles (LECA)
     category: substrate
@@ -9,9 +21,42 @@ supplies:
       - container-01
       - container-02
 
+  # --- Amendments ---
+  - id: vermiculite
+    name: Vermiculite
+    category: amendment
+    used_for: moisture retention, aeration
+
+  - id: perlite
+    name: Perlite
+    category: amendment
+    used_for: drainage, aeration
+
+  - id: garden-lime
+    name: Garden lime
+    category: amendment
+    used_for: pH adjustment (raise pH), calcium
+
+  - id: mag-i-cal
+    name: Mag-I-Cal
+    category: amendment
+    used_for: calcium + magnesium, pH adjustment
+    notes: Espoma pelletized limestone fortified with magnesium.
+
+  # --- Composts ---
+  - id: wild-mushroom-blend
+    name: Wild mushroom blend compost
+    category: compost
+    notes: null
+
+  # --- Containers / hardware ---
   - id: container-5gal
     name: 5 gallon container
     category: container
     size: 5 gal
     quantity_total: null  # total count on hand not yet recorded
     quantity_in_use: 2
+    notes: >-
+      All drainage/reservoir parts are on hand for every 5 gal pot.
+      Drainage and clay-pebble reservoirs are installed manually per pot
+      as each is brought into service.
