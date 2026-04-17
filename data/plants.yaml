@@ -78,3 +78,9 @@ plants:
     type: strawberry
     variety: null  # variety not listed on basket
     notes: Pre-planted organic strawberry basket; variety unknown.
+
+  - id: potato-russet
+    common_name: Russet Potato
+    type: root-vegetable
+    variety: Russet  # specific cultivar not recorded
+    notes: Seed potatoes for planting.

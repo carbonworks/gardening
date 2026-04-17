@@ -41,3 +41,9 @@ nursery:
   - plant: strawberry-ever-sweet
     quantity: 1
     pot_size: 8 in
+
+  - plant: potato-russet
+    quantity: 5
+    pot_size: null  # seed potatoes (tubers), not in pots
+    form: seed potato
+    notes: Five russet seed potatoes ready to plant.

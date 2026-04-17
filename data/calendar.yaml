@@ -1,0 +1,148 @@
+# Generic month-by-month garden task calendar.
+#
+# Assumed climate: temperate North America, USDA zone 6-7. Adjust dates
+# 2-4 weeks earlier per zone warmer (zone 8-9), or later per zone colder
+# (zone 4-5). Replace with a zone-specific version once the actual
+# growing zone is recorded.
+#
+# Sources cross-referenced from standard general-purpose calendars
+# (Old Farmer's Almanac, Rodale, Mother Earth News, university
+# extension publications). These are common, well-documented practices.
+#
+# `favorites` lists the plants/tasks we choose to focus on each month.
+# Currently empty; will be populated over time as preferences emerge.
+
+calendar:
+  - month: January
+    start_indoors: [onions, leeks, parsley]
+    direct_sow: []
+    transplant_outdoors: []
+    purchase_as_starters: []
+    other_tasks:
+      - Plan garden layout
+      - Order seeds from catalogs
+      - Inventory seeds and supplies
+      - Sharpen and oil tools
+    favorites: []
+
+  - month: February
+    start_indoors: [peppers, eggplant, celery, broccoli, cabbage, lettuce]
+    direct_sow: []
+    transplant_outdoors: []
+    purchase_as_starters: []
+    other_tasks:
+      - Set up seed-starting trays and lights
+      - Test soil and amend if needed
+      - Order any remaining seeds
+    favorites: []
+
+  - month: March
+    start_indoors: [tomatoes, basil, late peppers, herbs]
+    direct_sow: [peas, spinach, radish, lettuce, carrots, kale]
+    transplant_outdoors: [onion sets, hardy greens]
+    purchase_as_starters: [cool-weather brassica starts, lettuce starts]
+    other_tasks:
+      - Prep beds as soil becomes workable
+      - Chit (pre-sprout) seed potatoes
+      - Prune fruit trees before bud break
+    favorites: []
+
+  - month: April
+    start_indoors: [cucumbers, squash, melon, pumpkin]
+    direct_sow: [beets, chard, more peas, lettuce, spinach, parsnips]
+    transplant_outdoors: [hardened-off cool brassicas, more lettuce]
+    purchase_as_starters: [warm-weather starts (tomatoes, peppers, herbs)]
+    other_tasks:
+      - Plant seed potatoes
+      - Set up tomato cages and trellises
+      - Begin hardening off indoor seedlings
+    favorites: []
+
+  - month: May
+    start_indoors: [succession basil, fall cabbage starts (late month)]
+    direct_sow: [beans, corn, cucumbers, summer squash, zucchini, melon, sunflowers, dill]
+    transplant_outdoors: [tomatoes, peppers, eggplant, basil, cucumbers]
+    purchase_as_starters: [any remaining warm-season starts]
+    other_tasks:
+      - Wait until after last frost for warm-season transplants
+      - Mulch beds to retain moisture
+      - Watch for late frost; cover if needed
+    favorites: []
+
+  - month: June
+    start_indoors: [fall brassicas (broccoli, cabbage, kale, brussels sprouts)]
+    direct_sow: [succession beans, lettuce, summer squash]
+    transplant_outdoors: [late tomatoes/peppers if still on hand]
+    purchase_as_starters: []
+    other_tasks:
+      - Stake and prune tomatoes
+      - Side-dress heavy feeders with compost
+      - Weed and mulch
+    favorites: []
+
+  - month: July
+    start_indoors: [fall lettuce, more brassicas]
+    direct_sow: [late beans, fall carrots, beets]
+    transplant_outdoors: [fall brassicas]
+    purchase_as_starters: [fall brassica starts]
+    other_tasks:
+      - Harvest tomatoes, beans, peppers, cucumbers
+      - Water deeply during heat
+      - Watch for pests (hornworms, squash bugs)
+    favorites: []
+
+  - month: August
+    start_indoors: [fall greens, lettuce]
+    direct_sow: [spinach, lettuce, radish, fall greens, cilantro]
+    transplant_outdoors: [fall brassicas, kale]
+    purchase_as_starters: [fall starts (brassicas, lettuce)]
+    other_tasks:
+      - Save seeds from heirloom varieties
+      - Prune for airflow
+      - Continue heavy harvest
+    favorites: []
+
+  - month: September
+    start_indoors: [overwintering greens for cold frame]
+    direct_sow: [spinach, lettuce, radish, garlic (late month)]
+    transplant_outdoors: [garlic, fall brassicas]
+    purchase_as_starters: [seed garlic, fall bulbs]
+    other_tasks:
+      - Harvest winter squash
+      - Plant cover crops on empty beds
+      - Save seeds
+    favorites: []
+
+  - month: October
+    start_indoors: [overwintering herbs]
+    direct_sow: [garlic, cover crops, spinach in cold frame]
+    transplant_outdoors: [garlic if not yet planted]
+    purchase_as_starters: [garlic, spring bulbs]
+    other_tasks:
+      - Clean up spent plants and compost
+      - Mulch perennials before hard freeze
+      - Bring tender herbs indoors
+    favorites: []
+
+  - month: November
+    start_indoors: []
+    direct_sow: [garlic if not yet planted]
+    transplant_outdoors: []
+    purchase_as_starters: []
+    other_tasks:
+      - Mulch garlic bed
+      - Drain and store hoses
+      - Clean and store tools for winter
+      - Plan next year's crop rotation
+    favorites: []
+
+  - month: December
+    start_indoors: []
+    direct_sow: []
+    transplant_outdoors: []
+    purchase_as_starters: []
+    other_tasks:
+      - Order seed catalogs for next year
+      - Review this year's notes; record what worked
+      - Tool maintenance
+    favorites: []

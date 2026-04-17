@@ -1,0 +1,10 @@
+# Plants we want to grow but have not yet acquired.
+# Move entries to plants.yaml + nursery.yaml (or containers.yaml) once
+# the variety is chosen and starts/seeds are purchased.
+
+wishlist:
+  - common_name: Cucumber
+    type: vine-vegetable
+    variety: null  # not yet selected
+    status: not-yet-purchased
+    notes: Want to grow this season.
