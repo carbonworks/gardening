@@ -15,48 +15,72 @@ encyclopedia:
   - plant: tomato-dora-red
     scientific_name: Solanum lycopersicum
     family: Solanaceae (nightshade family)
+    series: Heartbreakers
     origin: >-
-      Domesticated from wild species in western South America
-      (the Andes of Peru and Ecuador) and further developed in
-      Mesoamerica. Reached Europe in the 16th century and was long
-      thought poisonous because of its nightshade relatives.
-    growth_habit: Determinate bush (compact, self-limiting height)
-    days_to_maturity: ~65-70 days from transplant (typical for small determinates)
+      Tomatoes were domesticated from wild species in western South
+      America (the Andes of Peru and Ecuador) and further developed
+      in Mesoamerica. The Heartbreakers series is a modern breeding
+      line specifically developed for container and small-space
+      growing — compact, prolific, and well-suited to hanging
+      baskets and deck pots.
+    growth_habit: >-
+      Determinate, very compact bush (~10-14 in tall). The
+      Heartbreakers series is bred to stay small and bushy,
+      producing clusters of small-to-medium red fruits without
+      the sprawl of standard determinates.
+    days_to_maturity: ~55-65 days from transplant (typical for the series)
     garden_value: >-
-      Determinate tomatoes ripen most of their fruit in a
-      concentrated window, which is convenient for small spaces
-      and for preserving.
+      Compact habit fits a 5 gal container easily and doesn't
+      overrun neighbors — which is why it pairs well with Joy Red
+      and companion flowers in container-01. Concentrated ripening
+      window is convenient for small harvests.
     care_highlights:
       - Consistent moisture; irregular watering causes splitting and blossom end rot.
-      - Cage or short stake (they self-limit but still benefit from support).
+      - Minimal staking needed — a short cage is usually enough for the Heartbreakers habit.
       - Mulch to stabilize soil moisture and suppress soil splash (reduces disease).
       - Avoid overhead watering; wet leaves invite fungal disease.
     pest_disease:
       - Tomato hornworm (large green caterpillar; handpick)
       - Aphids (sprayed off or managed with beneficials)
       - Early blight and septoria leaf spot (mulch + airflow help)
-      - Blossom end rot (calcium deficiency, often from inconsistent water rather than lack of calcium)
+      - Blossom end rot (calcium uptake issue, usually inconsistent water rather than low-calcium soil)
     tidbit: >-
-      "Dora Red" is not a widely documented cultivar — treat it as a
-      generic small determinate bush tomato. If it performs notably,
-      log observations in the journal so we can characterize it
-      ourselves.
+      Heartbreakers is a trademarked series from PanAmerican Seed /
+      Ball Horticultural, launched in the 2010s as part of a wave
+      of "patio" and "container" tomato breeding that targeted
+      urban and apartment gardeners. Other colors/varieties in the
+      same series include 'Vita' (red) and 'Lucky' (pink).
 
   - plant: tomato-joy-red
     scientific_name: Solanum lycopersicum
     family: Solanaceae (nightshade family)
-    origin: See Dora Red — same species, same Andean / Mesoamerican ancestry.
-    growth_habit: Determinate bush
+    series: Pillar
+    origin: >-
+      Same species ancestry as Dora Red (Andean / Mesoamerican).
+      The Pillar series is a more recent container-tomato breeding
+      line with a narrow, columnar habit — the plant grows
+      vertically rather than spreading outward.
+    growth_habit: >-
+      Determinate, columnar / pillar-shaped (~2-3 ft tall, very
+      narrow footprint). Upright habit makes it efficient on
+      crowded decks: small base, vertical profile.
     days_to_maturity: ~65-70 days from transplant (typical)
-    garden_value: Same profile as Dora Red; planted together for a paired determinate harvest.
+    garden_value: >-
+      Space-efficient — takes up much less horizontal room than a
+      normal determinate bush. In container-01 the narrower Pillar
+      habit of Joy Red and the squat Heartbreakers habit of Dora
+      Red complement each other without competing.
     care_highlights:
       - Same as Dora Red.
+      - A single central stake is usually enough given the columnar habit.
     pest_disease:
       - Same as Dora Red.
     tidbit: >-
-      Also a lightly documented cultivar. "Joy" is more commonly
-      encountered as a cherry-tomato line; confirm the specific
-      cultivar from the seed/start source when convenient.
+      Pillar is a modern container-tomato series (introduced in the
+      late 2010s / early 2020s) bred to produce a "pillar" of fruit
+      along a single narrow stem. The breeding goal was roughly
+      "tomato you could grow next to your front door" — maximizing
+      yield per square foot of deck.
 
   - plant: tomato-hartmans-yellow-gooseberry
     scientific_name: Solanum lycopersicum (var. cerasiforme - cherry type)

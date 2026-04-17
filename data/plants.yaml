@@ -4,17 +4,21 @@
 plants:
   - id: tomato-dora-red
     common_name: Dora Red
+    series: Heartbreakers
+    full_name: Heartbreakers 'Dora Red'
     type: tomato
     growth_habit: determinate
-    form: bush
-    notes: Smaller determinate bush tomato.
+    form: compact bush (container series)
+    notes: Heartbreakers series — compact, container-friendly bush tomato bred for small spaces and hanging baskets.
 
   - id: tomato-joy-red
     common_name: Joy Red
+    series: Pillar
+    full_name: Pillar 'Joy Red'
     type: tomato
     growth_habit: determinate
-    form: bush
-    notes: Smaller determinate bush tomato.
+    form: columnar / upright
+    notes: Pillar series — narrow, upright columnar habit bred for small-footprint containers and patios.
 
   - id: tomato-hartmans-yellow-gooseberry
     common_name: Hartman's Yellow Gooseberry

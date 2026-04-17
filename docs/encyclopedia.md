@@ -12,8 +12,8 @@ for, and one interesting tidbit per plant.
 
 ### Nightshades
 
-- [Tomato 'Dora Red'](#tomato-dora-red)
-- [Tomato 'Joy Red'](#tomato-joy-red)
+- [Heartbreakers 'Dora Red' tomato](#heartbreakers-dora-red-tomato)
+- [Pillar 'Joy Red' tomato](#pillar-joy-red-tomato)
 - [Tomato 'Hartman's Yellow Gooseberry'](#tomato-hartmans-yellow-gooseberry)
 - [Pepper 'Orange Blaze'](#pepper-orange-blaze)
 - [Pepper 'Lunch Box Orange'](#pepper-lunch-box-orange)
@@ -37,17 +37,17 @@ for, and one interesting tidbit per plant.
 
 ---
 
-## Tomato 'Dora Red'
+## Heartbreakers 'Dora Red' tomato
 
-*Solanum lycopersicum* · Solanaceae (nightshade family) · determinate bush · ~65–70 days from transplant
+*Solanum lycopersicum* · Solanaceae (nightshade family) · Heartbreakers series · determinate, very compact bush (~10–14 in) · ~55–65 days from transplant
 
-**Origin.** Tomatoes were domesticated from wild species in western South America (the Andes of Peru and Ecuador) and further developed in Mesoamerica. They reached Europe in the 16th century and were long thought poisonous because of their nightshade relatives.
+**Origin.** Tomatoes were domesticated from wild species in western South America (the Andes of Peru and Ecuador) and further developed in Mesoamerica. The **Heartbreakers** series is a modern breeding line specifically developed for container and small-space growing — compact, prolific, and well-suited to hanging baskets and deck pots.
 
-**Garden value.** Determinate tomatoes ripen most of their fruit in a concentrated window, which is convenient for small spaces and for preserving.
+**Garden value.** The compact Heartbreakers habit fits a 5 gal container easily and doesn't overrun neighbors, which is why it pairs well with Joy Red and the companion flowers in `container-01`. Like all determinates, it ripens most of its fruit in a concentrated window.
 
 **Care highlights.**
 - Consistent moisture; irregular watering causes splitting and blossom end rot.
-- Cage or short stake (they self-limit but still benefit from support).
+- Minimal staking — a short cage is usually enough for the Heartbreakers habit.
 - Mulch to stabilize soil moisture and suppress soil splash (reduces disease).
 - Avoid overhead watering; wet leaves invite fungal disease.
 
@@ -57,21 +57,23 @@ for, and one interesting tidbit per plant.
 - Early blight and septoria leaf spot (mulch + airflow help).
 - Blossom end rot — calcium uptake issue, usually caused by inconsistent water rather than low-calcium soil.
 
-**Tidbit.** "Dora Red" is not a widely documented cultivar — treat it as a generic small determinate bush tomato. If it performs notably, log observations in the journal so we can characterize it ourselves.
+**Tidbit.** Heartbreakers is a trademarked series from PanAmerican Seed / Ball Horticultural, launched in the 2010s as part of a wave of "patio" and "container" tomato breeding that targeted urban and apartment gardeners. Other varieties in the series include 'Vita' (red) and 'Lucky' (pink).
 
 ---
 
-## Tomato 'Joy Red'
+## Pillar 'Joy Red' tomato
 
-*Solanum lycopersicum* · Solanaceae · determinate bush · ~65–70 days from transplant
+*Solanum lycopersicum* · Solanaceae · Pillar series · determinate, columnar habit (~2–3 ft tall, narrow footprint) · ~65–70 days from transplant
 
-**Origin.** Same species and ancestry as Dora Red.
+**Origin.** Same species ancestry as Dora Red (Andean / Mesoamerican). The **Pillar** series is a more recent container-tomato breeding line with a narrow, columnar habit — the plant grows vertically rather than spreading outward.
 
-**Garden value.** Same profile as Dora Red; the two were planted together in `container-01` for a paired determinate harvest.
+**Garden value.** Space-efficient — a much smaller horizontal footprint than a normal determinate bush. In `container-01` the narrower Pillar habit of Joy Red and the squat Heartbreakers habit of Dora Red complement each other without competing.
 
-**Care highlights / Watch for.** Same as Dora Red.
+**Care highlights.** Same as Dora Red; a single central stake is usually enough given the columnar habit.
 
-**Tidbit.** Also a lightly documented cultivar. "Joy" shows up more commonly as a cherry-tomato line; confirm the specific cultivar from the seed/start source when convenient.
+**Watch for.** Same as Dora Red.
+
+**Tidbit.** Pillar is a modern container-tomato series (introduced in the late 2010s / early 2020s) bred to produce a "pillar" of fruit along a single narrow stem — the breeding goal was roughly "a tomato you could grow next to your front door," maximizing yield per square foot of deck.
 
 ---
 
