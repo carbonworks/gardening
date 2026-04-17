@@ -23,6 +23,18 @@ tasks:
     created: 2026-04-17
     notes: User flagged these should go in soon.
 
+  - id: pot-flo-pepper
+    description: >-
+      Plant FLO BIOorganic sweet pepper into container-12 (5 gal)
+      using Tomato & Pepper Mix. Place on the deck floor next to
+      the SSE rail so it still gets the full-sun window. Plant is
+      already ~1.5 ft tall — do this promptly to avoid root binding
+      in the 8 in nursery pot.
+    priority: high
+    status: todo
+    related: [pepper-flo-organic-sweet, container-12]
+    created: 2026-04-17
+
   - id: uppot-citronella
     description: >-
       Up-pot citronella from 6 in into next-size container (target 2-3 gal

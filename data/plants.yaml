@@ -66,6 +66,17 @@ plants:
     type: sweet-bell-pepper
     notes: null
 
+  - id: pepper-flo-organic-sweet
+    common_name: FLO BIOorganic Sweet Pepper
+    type: sweet-pepper
+    variety: null  # not specified on label
+    certification: Certified organic by Ecocert USA (operator #312778)
+    notes: >-
+      Brand: FLO BIOorganic. Label shows red and green sweet peppers
+      but does not specify a variety. ~1.5 ft tall at purchase —
+      larger and more established than the Orange Blaze and Lunch
+      Box Orange starts. Acquired 2026-04-17.
+
   - id: lettuce-mesclun-mix
     common_name: Mesclun Mix Lettuce
     type: lettuce

@@ -55,10 +55,11 @@ supplies:
     category: container
     size: 5 gal
     material: plastic
-    quantity_total: 12
+    quantity_total: 24
     quantity_in_use: 2
-    quantity_available: 10
+    quantity_available: 22
     notes: >-
-      All drainage/reservoir parts are on hand for every 5 gal pot.
-      Drainage and clay-pebble reservoirs are installed manually per pot
-      as each is brought into service.
+      12 pots acquired initially, second dozen acquired 2026-04-17
+      for 24 total. All drainage/reservoir parts are on hand.
+      Drainage and clay-pebble reservoirs are installed manually per
+      pot as each is brought into service.

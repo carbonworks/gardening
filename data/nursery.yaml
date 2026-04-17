@@ -24,6 +24,13 @@ nursery:
     quantity: 1
     pot_size: 4 in
 
+  - plant: pepper-flo-organic-sweet
+    quantity: 1
+    pot_size: 8 in
+    notes: >-
+      Certified organic, no variety listed. ~1.5 ft tall — already
+      well-developed; plant promptly into container-12.
+
   - plant: basil
     quantity: 1
     pot_size: 2 in

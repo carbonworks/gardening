@@ -183,12 +183,33 @@ containers:
     notes: >-
       Established 6+ year old makrut lime (kaffir lime), ~2 ft tall.
       Significantly root-restricted in the 6 in pot. Not part of
-      the 12 × 5 gal set. Open question: up-pot to encourage growth,
+      the 5 gal set. Open question: up-pot to encourage growth,
       or maintain as dwarfed patio citrus. Overwinter indoors.
+
+  - id: container-12
+    size: 5 gal
+    material: plastic
+    status: proposed
+    location: deck floor near the SSE rail (planter stands full); place in the sunniest available floor spot next to the stands so it still gets the 10am-4pm window
+    soil_recipe: tomato-pepper-mix
+    base:
+      material: expanded clay pebbles
+      reservoir_depth: null  # install manually
+    plantings:
+      - plant: pepper-flo-organic-sweet
+        quantity: 1
+      - plant: marigold
+        quantity: 1
+        optional: true  # add if marigolds are still available after containers 03-04 are planted
+    notes: >-
+      Third pepper, acquired after the planter stands were already
+      allocated. Plant is already ~1.5 ft tall — prioritize potting
+      this one up before its root ball circles further in the 8 in
+      nursery pot.
 
 # 5 gal container usage:
 #   planted:  2 (container-01, container-02)
-#   proposed: 8 (container-03 through container-10)
-#   spare:    2 of 12 total (one earmarked for cucumber when purchased)
+#   proposed: 9 (container-03 through container-10, plus container-12)
+#   spare:    13 of 24 total (one earmarked for cucumber when purchased)
 # Other containers (not part of the 5 gal set):
 #   container-11 — 6 in makrut lime (kaffir lime)

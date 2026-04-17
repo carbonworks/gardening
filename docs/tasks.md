@@ -10,6 +10,8 @@
 
 - **Pot up peppers** — set up `container-03` (Orange Blaze + 1 basil + 2 marigolds) and `container-04` (Lunch Box Orange + 2 marigolds). Both use Tomato & Pepper Mix; place on planter-stand-1. _User flagged: these should go in soon._
   - Related: `container-03`, `container-04`, `pepper-orange-blaze`, `pepper-lunch-box-orange`, `basil`, `marigold`
+- **Pot up FLO BIOorganic sweet pepper** — into `container-12` (5 gal) using Tomato & Pepper Mix. Place on the deck floor next to the SSE rail so it still gets the full-sun window. Plant is already ~1.5 ft tall — do promptly to avoid root binding in the 8 in nursery pot.
+  - Related: `pepper-flo-organic-sweet`, `container-12`
 
 ### Medium priority
 

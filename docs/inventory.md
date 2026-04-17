@@ -41,8 +41,9 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 | `container-08` | 5 gal | SSE rail / planter-stand-2 | 2× russet seed potatoes | Potato Mix |
 | `container-09` | 5 gal | Deck floor / partial sun | 1× lemon balm solo | General Herb Mix |
 | `container-10` | 5 gal | Deck floor / partial sun | 1× lemon balm solo | General Herb Mix |
+| `container-12` | 5 gal | Deck floor / next to SSE rail (full sun) | 1× FLO BIOorganic sweet pepper (+ 1 marigold if available) | Tomato & Pepper Mix |
 
-**5 gal pot usage:** 2 planted + 8 proposed = 10; **2 spare** (one earmarked for cucumber when purchased).
+**5 gal pot usage:** 2 planted + 9 proposed = 11; **13 spare** of 24 total (one earmarked for cucumber when purchased).
 
 ## Other established containers
 
@@ -59,6 +60,7 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 | Marigold (Antigua Mix) | 5 | 1 in | |
 | Pepper 'Orange Blaze' | 1 | 4 in | Sweet pepper |
 | Pepper 'Lunch Box Orange' | 1 | 4 in | Sweet bell pepper |
+| FLO BIOorganic sweet pepper | 1 | 8 in | Certified organic (Ecocert USA #312778); variety not listed; ~1.5 ft tall |
 | Basil | 1 | 2 in | Variety not recorded |
 | Mesclun mix lettuce | 6 | 1 in | Starter cells |
 | Strawberry (organic basket) | 1 | 12 in | Variety unknown; pre-planted basket |
@@ -93,7 +95,7 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 
 ### Containers
 
-- **5 gallon plastic pots** — 12 total, 2 in use, **10 available**. Drainage and clay-pebble reservoirs are installed manually per pot as each is brought into service.
+- **5 gallon plastic pots** — **24 total** (12 initial + 12 added 2026-04-17), 2 in use, **22 available**. Drainage and clay-pebble reservoirs are installed manually per pot as each is brought into service.
 
 ## Premixed soil base on hand
 
