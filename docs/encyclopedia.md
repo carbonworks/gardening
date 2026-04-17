@@ -34,7 +34,7 @@ for, and one interesting tidbit per plant.
 - [Strawberry 'Ever Sweet'](#strawberry-ever-sweet)
 - [Strawberry (unknown basket)](#strawberry-unknown-basket)
 - [Cucumber](#cucumber) _(wishlist)_
-- [Kaffir lime (makrut lime)](#kaffir-lime-makrut-lime)
+- [Makrut lime (kaffir lime)](#makrut-lime-kaffir-lime)
 
 ---
 
@@ -401,11 +401,11 @@ _(Wishlist — not yet purchased.)_
 
 ---
 
-## Kaffir lime (makrut lime)
+## Makrut lime (kaffir lime)
 
 *Citrus hystrix* · Rutaceae (citrus family) · evergreen small tree / large shrub
 
-**A note on the name.** The English trade name "kaffir lime" has come under criticism because *kaffir* is a slur in South Africa and parts of South Asia. Many culinary and horticultural sources now prefer **makrut lime** (from the Thai *makrut*, มะกรูด). Both refer to the same plant.
+**A note on the name.** "Makrut lime" (from the Thai *makrut*, มะกรูด) is the preferred name used here. The older English trade name "kaffir lime" is kept in parentheses for recognition, because *kaffir* is a slur in South Africa and parts of South Asia and the culinary and horticultural communities have been shifting away from it. Both names refer to the same plant.
 
 **Origin.** Native to tropical Southeast Asia — Thailand, Indonesia, Malaysia, Cambodia, Laos, and the Philippines. The fragrant leaves and bumpy-rind fruit are central to Thai, Indonesian, and Khmer cooking.
 
@@ -426,4 +426,4 @@ _(Wishlist — not yet purchased.)_
 - Leaf miners outdoors in summer.
 - Root rot from overwatering or poor drainage.
 
-**Tidbit.** A kaffir lime fruit yields very little juice — the plant's value is almost entirely in its fragrant leaves and the aromatic oil in the zest. A single mature plant can provide cooking leaves indefinitely with periodic harvest, which is part of why these specimens are so often kept compact in pots rather than grown to full tree size.
+**Tidbit.** A makrut lime fruit yields very little juice — the plant's value is almost entirely in its fragrant leaves and the aromatic oil in the zest. A single mature plant can provide cooking leaves indefinitely with periodic harvest, which is part of why these specimens are so often kept compact in pots rather than grown to full tree size.

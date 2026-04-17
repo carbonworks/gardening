@@ -178,10 +178,10 @@ containers:
     location: null  # placement on the deck not yet recorded
     soil_recipe: null  # pre-existing; would switch to a citrus-appropriate mix if up-potted
     plantings:
-      - plant: kaffir-lime
+      - plant: makrut-lime
         quantity: 1
     notes: >-
-      Established 6+ year old kaffir lime (makrut lime), ~2 ft tall.
+      Established 6+ year old makrut lime (kaffir lime), ~2 ft tall.
       Significantly root-restricted in the 6 in pot. Not part of
       the 12 × 5 gal set. Open question: up-pot to encourage growth,
       or maintain as dwarfed patio citrus. Overwinter indoors.
@@ -191,4 +191,4 @@ containers:
 #   proposed: 8 (container-03 through container-10)
 #   spare:    2 of 12 total (one earmarked for cucumber when purchased)
 # Other containers (not part of the 5 gal set):
-#   container-11 — 6 in kaffir lime
+#   container-11 — 6 in makrut lime (kaffir lime)

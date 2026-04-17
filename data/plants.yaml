@@ -95,8 +95,8 @@ plants:
     variety: null  # usually Pelargonium 'Citrosum' ("mosquito plant"); could also be true citronella grass (Cymbopogon nardus). Clarify if known.
     notes: Recently up-potted from 4 in to 6 in; growing vigorously. Goal is to maximize size.
 
-  - id: kaffir-lime
-    common_name: Kaffir Lime (also known as Makrut Lime)
+  - id: makrut-lime
+    common_name: Makrut Lime (Kaffir Lime)
     type: citrus-tree
     variety: null  # specific cultivar not recorded
     notes: >-
