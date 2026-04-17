@@ -1,0 +1,13 @@
+# Site / location information used to tune planting calendar and recipes.
+
+site:
+  location: Anne Arundel County, Maryland
+  region: Mid-Atlantic, Chesapeake Bay watershed (western shore)
+  usda_hardiness_zone: 7b
+  usda_zone_notes: >-
+    Per the 2023 USDA Plant Hardiness Zone Map. Northern / more inland
+    parts of the county are 7a; areas closer to the bay tend to 7b.
+    Bay proximity moderates temperature swings slightly.
+  last_spring_frost_avg: ~April 15
+  first_fall_frost_avg: ~October 30
+  growing_season_length: ~195 days

@@ -1,13 +1,12 @@
-# Generic month-by-month garden task calendar.
+# Month-by-month garden task calendar.
 #
-# Assumed climate: temperate North America, USDA zone 6-7. Adjust dates
-# 2-4 weeks earlier per zone warmer (zone 8-9), or later per zone colder
-# (zone 4-5). Replace with a zone-specific version once the actual
-# growing zone is recorded.
+# Tuned for: Anne Arundel County, Maryland (USDA zone 7b).
+# Last spring frost ~April 15; first fall frost ~October 30.
+# See site.yaml for site details.
 #
 # Sources cross-referenced from standard general-purpose calendars
-# (Old Farmer's Almanac, Rodale, Mother Earth News, university
-# extension publications). These are common, well-documented practices.
+# (Old Farmer's Almanac, Rodale, Mother Earth News, University of
+# Maryland Extension). These are common, well-documented practices.
 #
 # `favorites` lists the plants/tasks we choose to focus on each month.
 # Currently empty; will be populated over time as preferences emerge.
@@ -38,24 +37,25 @@ calendar:
 
   - month: March
     start_indoors: [tomatoes, basil, late peppers, herbs]
-    direct_sow: [peas, spinach, radish, lettuce, carrots, kale]
+    direct_sow: [peas, spinach, radish, lettuce, carrots, kale, chard]
     transplant_outdoors: [onion sets, hardy greens]
     purchase_as_starters: [cool-weather brassica starts, lettuce starts]
     other_tasks:
+      - Plant seed potatoes mid-month (St. Patrick's Day is the local tradition)
       - Prep beds as soil becomes workable
-      - Chit (pre-sprout) seed potatoes
+      - Chit (pre-sprout) seed potatoes early month
       - Prune fruit trees before bud break
     favorites: []
 
   - month: April
     start_indoors: [cucumbers, squash, melon, pumpkin]
-    direct_sow: [beets, chard, more peas, lettuce, spinach, parsnips]
+    direct_sow: [beets, more peas, lettuce, spinach, parsnips]
     transplant_outdoors: [hardened-off cool brassicas, more lettuce]
     purchase_as_starters: [warm-weather starts (tomatoes, peppers, herbs)]
     other_tasks:
-      - Plant seed potatoes
+      - Last spring frost ~April 15; begin warm-season transplants after this date (with frost protection ready)
       - Set up tomato cages and trellises
-      - Begin hardening off indoor seedlings
+      - Finish hardening off indoor seedlings
     favorites: []
 
   - month: May
@@ -115,10 +115,11 @@ calendar:
 
   - month: October
     start_indoors: [overwintering herbs]
-    direct_sow: [garlic, cover crops, spinach in cold frame]
+    direct_sow: [garlic (mid- to late month), cover crops, spinach in cold frame]
     transplant_outdoors: [garlic if not yet planted]
     purchase_as_starters: [garlic, spring bulbs]
     other_tasks:
+      - First fall frost ~October 30; protect tender crops toward month end
       - Clean up spent plants and compost
       - Mulch perennials before hard freeze
       - Bring tender herbs indoors

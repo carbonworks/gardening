@@ -4,6 +4,7 @@ Organizational system for tracking plants, containers, and supplies.
 
 ## Structure
 
+- `data/site.yaml` — location, hardiness zone, frost dates
 - `data/plants.yaml` — catalog of plant varieties (tomatoes, companions, etc.)
 - `data/containers.yaml` — physical containers and what is planted in each
 - `data/nursery.yaml` — plants in starter pots, available to be planted out
