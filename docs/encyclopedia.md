@@ -21,7 +21,10 @@ for, and one interesting tidbit per plant.
 
 ### Herbs
 
-_(added in chunk 2)_
+- [Basil](#basil)
+- [Lemon balm](#lemon-balm)
+- [Lavender 'Provence'](#lavender-provence)
+- [Citronella](#citronella)
 
 ### Flowers, greens, and fruit
 
@@ -148,3 +151,100 @@ _(added in chunk 3)_
 - Potato scab — worse at high pH (another reason to avoid lime).
 
 **Tidbit.** The "eyes" on a potato are dormant buds. A seed potato is just a potato grown specifically to be planted rather than eaten. Green potatoes (exposed to light) contain solanine and shouldn't be eaten — hilling keeps tubers covered and prevents this.
+
+---
+
+## Basil
+
+*Ocimum basilicum* · Lamiaceae (mint family) · annual
+
+**Origin.** Tropical Asia and Africa, with India as a likely center of domestication — basil has been grown there for over 5,000 years as a culinary, medicinal, and religious herb.
+
+**Garden value.** Culinary herb with a long association with tomatoes, both in the kitchen and in the garden. Loves heat, thrives alongside tomatoes and peppers, and is said to repel thrips, aphids, and tomato hornworm moths.
+
+**Care highlights.**
+- Pinch flower buds as they appear — flowering shifts the plant into seed production and leaves turn bitter.
+- Harvest above a leaf node to encourage branching.
+- Loves heat; don't plant out until nights are consistently above 50 °F.
+- Very susceptible to cold; one light frost will kill it.
+
+**Watch for.**
+- Japanese beetles (skeletonize leaves).
+- Fusarium wilt (systemic, soil-borne — rotate away from infected soil).
+- **Downy mildew** — a major threat in humid Mid-Atlantic summers. Look for yellowing between the veins and gray fuzz on leaf undersides.
+
+**Tidbit.** The name "basil" comes from the Greek *basileus* meaning king — it's literally the "royal herb." In Italian folklore, a pot of basil on a windowsill was traditionally a sign of welcome to suitors.
+
+---
+
+## Lemon balm
+
+*Melissa officinalis* · Lamiaceae (mint family) · hardy perennial
+
+**Origin.** Southern Europe, the Mediterranean basin, and western Asia. Grown in Europe for well over 2,000 years as a bee plant and as a calming herbal tea.
+
+**Garden value.** Lemon-scented leaves for tea and cooking; strongly attractive to honeybees and other pollinators. The *Melissa* genus name is Greek for "honeybee."
+
+**Care highlights.**
+- **Give it its own pot** — mint-family rhizomes spread aggressively and will crowd neighbors.
+- Cut back hard mid-season if it gets leggy; it regrows fresh leaves.
+- Tolerates partial sun (a perk for our deck).
+- Flowers are not showy; cut flower stalks to keep leaf production up.
+
+**Watch for.**
+- Generally pest-free — the essential oils that make it fragrant also deter most insects.
+- Powdery mildew in very humid, crowded conditions; improve airflow.
+
+**Tidbit.** Ancient Greeks planted lemon balm near beehives to help colonies return home. Medieval Carmelite nuns used it in "Carmelite Water," a distilled herbal tonic still produced today. Rub a leaf in your hands before gardening — the lemon scent genuinely lifts the mood.
+
+---
+
+## Lavender 'Provence'
+
+*Lavandula* × *intermedia* 'Provence' (a lavandin) · Lamiaceae · woody perennial
+
+**Origin.** True lavender (*L. angustifolia*) is native to the Mediterranean basin. The 'Provence' cultivar was bred from the hybrid called "lavandin" (*L. angustifolia* × *L. latifolia*), selected in the Provence region of France for vigor and essential-oil yield.
+
+**Garden value.** Pollinator magnet (bees, butterflies, hoverflies), long-blooming in mid-summer, powerfully fragrant, and generally left alone by deer and rabbits. Dried flower spikes keep their scent for months. Also credited with repelling mosquitoes, moths (think sachets), fleas, and some aphids — the evidence is stronger for moths and pantry pests than for mosquitoes.
+
+**Care highlights.**
+- Lean, well-drained, slightly alkaline soil — the Mediterranean Herb Mix (base + 30% perlite + 10% vermiculite + lime).
+- Full sun is essential; lavender languishes with less than 6 hours.
+- Water deeply but infrequently; **soggy roots are the #1 killer**.
+- Prune by a third after flowering to keep the plant shapely and prevent woody centers.
+
+**Watch for.**
+- Root rot from overwatering or poor drainage (most common lavender killer).
+- Spittlebugs — cosmetic only; hose off.
+- Occasional four-lined plant bug damage (leaf spotting).
+
+**Companion role.** Best grown *near* — but not *in* — the strawberry and pepper pots. Attracts pollinators that benefit fruiting crops, and its scent is said to mask the volatiles aphids use to find host plants.
+
+**Tidbit.** Lavandin cultivars like 'Provence' produce far more essential oil than true English lavender, which is why they dominate commercial lavender farms in southern France. The name "lavender" comes from the Latin *lavare* (to wash) — Romans scented their baths with it.
+
+---
+
+## Citronella
+
+*Pelargonium* 'Citrosum' (sometimes labeled *P. citrosum* Van Leenii — a cultivar, not a true species) · Geraniaceae · tender perennial
+
+**Origin.** The genus *Pelargonium* is native to southern Africa; most scented geraniums originate there. The 'Citrosum' cultivar was developed in the Netherlands in the 1980s and marketed as the "mosquito plant."
+
+True **citronella oil** in candles and torches comes from a *different* plant: citronella grass (*Cymbopogon nardus* and *C. winterianus*), a tropical grass from South and Southeast Asia. Most "citronella plants" sold at garden centers are the pelargonium, not the grass.
+
+**Garden value.** Fragrant lemon-scented foliage; a pleasant patio plant to brush against. Small pink flowers are a bonus. Drought-tolerant once established.
+
+**Care highlights.**
+- Full sun, well-drained soil; uses the General Herb Mix.
+- Pinch growing tips regularly to encourage a bushier plant (we want maximum leaf mass for scent).
+- Feed lightly but consistently — pelargoniums are not heavy feeders.
+- Zone 7b is marginal; overwinter indoors on a bright windowsill, or treat as an annual.
+
+**Watch for.**
+- Whiteflies and aphids indoors.
+- Generally pest-free outdoors.
+- Bacterial leaf spot if foliage stays wet.
+
+**Companion role — honest version.** The plant alone does not emit enough oil to meaningfully repel mosquitoes from the surrounding air. Studies consistently find its passive repellency is minimal. *Crushing a leaf and rubbing the oil on skin* has a modest, short-term effect. The "mosquito plant" name is mostly marketing.
+
+**Tidbit.** Because 'Citrosum' is a cultivar, it does not come true from seed — commercial plants are propagated from cuttings. That's also why it has no formal species name: it's an aromatic hybrid maintained by vegetative propagation.
