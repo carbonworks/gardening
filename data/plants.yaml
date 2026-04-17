@@ -84,3 +84,9 @@ plants:
     type: root-vegetable
     variety: Russet  # specific cultivar not recorded
     notes: Seed potatoes for planting.
+
+  - id: citronella
+    common_name: Citronella
+    type: scented-plant
+    variety: null  # usually Pelargonium 'Citrosum' ("mosquito plant"); could also be true citronella grass (Cymbopogon nardus). Clarify if known.
+    notes: Recently up-potted from 4 in to 6 in; growing vigorously. Goal is to maximize size.

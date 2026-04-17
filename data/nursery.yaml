@@ -47,3 +47,10 @@ nursery:
     pot_size: null  # seed potatoes (tubers), not in pots
     form: seed potato
     notes: Five russet seed potatoes ready to plant.
+
+  - plant: citronella
+    quantity: 1
+    pot_size: 6 in
+    notes: >-
+      Recently up-potted from 4 in to 6 in. Growing fast; plan to
+      continue up-potting (target: 5 gal) to maximize size. Solo pot.

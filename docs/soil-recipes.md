@@ -35,7 +35,7 @@ For: Dora Red, Joy Red, Hartman's Yellow Gooseberry, Orange Blaze pepper, Lunch 
 
 ## General Herb Mix
 
-For: basil, lemon balm.
+For: basil, lemon balm, citronella.
 
 | Component | Amount |
 |---|---|
@@ -43,7 +43,7 @@ For: basil, lemon balm.
 | Perlite | +10% |
 
 - **Target pH:** 6.0 – 7.0
-- Moderate drainage. Suitable for most culinary herbs.
+- Moderate drainage. Suitable for most culinary herbs and for citronella (*Pelargonium 'Citrosum'*).
 
 ## Mediterranean Herb Mix (lavender)
 
@@ -118,7 +118,7 @@ For: marigold (Antigua Mix).
 |---|---|---|
 | Tomatoes (all 3) | Tomato & Pepper Mix | +10% perlite, Mag-I-Cal |
 | Peppers (Orange Blaze, Lunch Box Orange) | Tomato & Pepper Mix | +10% perlite, Mag-I-Cal |
-| Basil, Lemon Balm | General Herb Mix | +10% perlite |
+| Basil, Lemon Balm, Citronella | General Herb Mix | +10% perlite |
 | Lavender 'Provence' | Mediterranean Herb Mix | +30% perlite, +10% vermiculite, lime |
 | Mesclun mix | Lettuce / Salad Greens Mix | +10% vermiculite, +10% perlite |
 | Russet potatoes | Potato Mix | +15% perlite, *no lime/Mag-I-Cal* |

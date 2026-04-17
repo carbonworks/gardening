@@ -1,0 +1,61 @@
+# Companion-planting and pot-sharing strategy data.
+# Informs docs/planting-strategy.md.
+# `plant` references map to `id` values in plants.yaml (or family names
+# for groups like "brassica").
+
+# Plants that should have their own pot regardless of pairings.
+solo_plants:
+  - plant: lemon-balm
+    reason: >-
+      Mint family; vigorous rhizomes outcompete neighbors and
+      spread aggressively. Keep in own pot to contain.
+  - plant: lavender-provence
+    reason: >-
+      Needs lean, alkaline, low-moisture soil that clashes with
+      other plants' preferences.
+  - plant: potato-russet
+    reason: >-
+      Large root system; nightshade disease overlap with tomatoes
+      and peppers makes shared pots risky.
+  - plant: citronella
+    reason: Goal is maximum size; solo pot eliminates competition.
+
+# Good pairings for shared pots, organized by anchor plant.
+companions:
+  - anchor: tomato  # any tomato cultivar
+    good:
+      - plant: basil
+        reason: Repels aphids and hornworm moths; classic pairing.
+      - plant: marigold
+        reason: Root exudates deter nematodes; flowers deter some pests.
+      - plant: nasturtium
+        reason: Trap crop for aphids; attracts pollinators.
+    avoid:
+      - plant: potato-russet
+        reason: Both nightshades; share blight and pests.
+
+  - anchor: pepper  # Orange Blaze, Lunch Box Orange, future peppers
+    good:
+      - plant: basil
+        reason: Repels aphids and thrips.
+      - plant: marigold
+        reason: Pest deterrent.
+      - plant: nasturtium
+        reason: Aphid trap crop; pollinator attractor.
+    avoid:
+      - plant: potato-russet
+        reason: Nightshade disease overlap.
+
+  - anchor: lettuce-mesclun-mix
+    good:
+      - plant: tomato
+        reason: Lettuce undercrops taller tomatoes while weather is cool.
+      - plant: pepper
+        reason: Same undercrop role.
+    avoid: []
+
+  - anchor: strawberry
+    good: []  # strawberries keep to their own containers
+    avoid:
+      - plant: brassica
+        reason: Brassicas inhibit strawberry growth.

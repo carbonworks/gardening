@@ -37,3 +37,27 @@ generated_docs:
       - data/site.yaml
       - data/calendar.yaml
     last_generated: 2026-04-17
+
+  - path: docs/planting-strategy.md
+    description: >-
+      Companion planting principles and the concrete plan for which
+      plants share pots vs. grow solo in our current lineup.
+    sources:
+      - data/companions.yaml
+      - data/plants.yaml
+      - data/containers.yaml
+      - data/nursery.yaml
+      - data/supplies.yaml
+    last_generated: 2026-04-17
+
+  - path: docs/tasks.md
+    description: Open garden tasks and recent completions.
+    sources:
+      - data/tasks.yaml
+    last_generated: 2026-04-17
+
+  - path: docs/journal.md
+    description: Dated observations and events.
+    sources:
+      - data/journal.yaml
+    last_generated: 2026-04-17

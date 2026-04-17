@@ -1,0 +1,87 @@
+# Work tracking for upcoming and in-progress garden tasks.
+#
+# status: todo | doing | done | blocked
+# priority: high | medium | low
+# Keep `done` tasks here for recent history; prune periodically into the
+# journal if the list grows too long.
+
+tasks:
+  - id: pot-peppers
+    description: >-
+      Pot up Orange Blaze and Lunch Box Orange peppers into 5 gal
+      containers with companions (1 basil + 1-2 marigolds each).
+    priority: high
+    status: todo
+    related:
+      - pepper-orange-blaze
+      - pepper-lunch-box-orange
+      - basil
+      - marigold
+    created: 2026-04-17
+    notes: User flagged these should go in soon.
+
+  - id: uppot-citronella
+    description: >-
+      Up-pot citronella from 6 in into next-size container (target 2-3 gal
+      interim, eventually 5 gal) using General Herb Mix. Solo pot.
+    priority: medium
+    status: todo
+    related: [citronella]
+    created: 2026-04-17
+
+  - id: plant-potatoes
+    description: >-
+      Plant 5 russet seed potatoes across 2-3 containers using Potato
+      Mix (no lime / no Mag-I-Cal). Chit first if not already sprouted.
+    priority: medium
+    status: todo
+    related: [potato-russet]
+    created: 2026-04-17
+    notes: We are inside the MD planting window (March-April traditional).
+
+  - id: pot-lavender
+    description: >-
+      Pot up Lavender 'Provence' into its own container using the
+      Mediterranean Herb Mix (lean, well-drained, slightly alkaline).
+    priority: medium
+    status: todo
+    related: [lavender-provence]
+    created: 2026-04-17
+
+  - id: pot-lemon-balm
+    description: >-
+      Pot up 2 lemon balm plants, each in its own container (mint-family
+      rhizomes are aggressive). Use General Herb Mix.
+    priority: medium
+    status: todo
+    related: [lemon-balm]
+    created: 2026-04-17
+
+  - id: plant-mesclun
+    description: >-
+      Transplant 6 mesclun lettuce starters into a shallow container
+      using Lettuce / Salad Greens Mix. Can also undercrop pepper or
+      tomato pots while weather is cool.
+    priority: medium
+    status: todo
+    related: [lettuce-mesclun-mix]
+    created: 2026-04-17
+
+  - id: purchase-cucumbers
+    description: Choose a variety and purchase cucumber starts or seeds.
+    priority: low
+    status: todo
+    related: []  # cucumber not yet in plants.yaml
+    created: 2026-04-17
+
+# Completed tasks (recent history)
+# - move to `journal.yaml` once this list gets long
+
+completed:
+  - id: plant-tomato-containers
+    description: >-
+      Planted container-01 (Dora Red + Joy Red + 2 marigolds +
+      2 nasturtium seeds) and container-02 (Hartman's Yellow
+      Gooseberry, solo), both with clay pebble reservoirs.
+    completed: 2026-04-13
+    related: [container-01, container-02]

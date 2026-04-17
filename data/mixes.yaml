@@ -46,8 +46,11 @@ recipes:
     applies_to:
       - basil
       - lemon-balm
+      - citronella
     target_ph: 6.0 - 7.0
-    notes: Moderate drainage. Suitable for most culinary herbs.
+    notes: >-
+      Moderate drainage. Suitable for most culinary herbs and for
+      citronella (Pelargonium 'Citrosum').
 
   - id: mediterranean-herb-mix
     name: Mediterranean Herb Mix (lavender)

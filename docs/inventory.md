@@ -4,6 +4,8 @@
 
 # Garden Inventory
 
+_Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](journal.md) &middot; Pot-sharing plan: [`docs/planting-strategy.md`](planting-strategy.md)_
+
 ## Site
 
 - **Location:** Anne Arundel County, Maryland
@@ -33,6 +35,7 @@
 | Strawberry (organic basket) | 1 | 12 in | Variety unknown; pre-planted basket |
 | Strawberry 'Ever Sweet' | 1 | 8 in | |
 | Russet seed potatoes | 5 | — | Tubers, ready to plant |
+| Citronella | 1 | 6 in | Recently up-potted from 4 in; growing fast. Plan to up-pot further (target 5 gal). |
 
 ## Wishlist — not yet acquired
 

@@ -1,0 +1,24 @@
+# Dated observations, events, and notes.
+# Append new entries at the bottom. `related` references are optional
+# and can point to plant, container, or task IDs.
+
+journal:
+  - date: 2026-04-13
+    entry: >-
+      Planted container-01 with Dora Red + Joy Red tomatoes together,
+      plus 2 marigolds (Antigua Mix) and 2 nasturtium seeds (heirloom).
+      0.5 in clay pebble reservoir at the bottom. Planted container-02
+      with Hartman's Yellow Gooseberry tomato (indeterminate) solo,
+      1 in clay pebble reservoir.
+    related: [container-01, container-02]
+
+  - date: 2026-04-17
+    entry: >-
+      Full inventory captured: plants, containers, nursery, supplies,
+      premixed soil base (50% mushroom / 25% coco / 25% peat, ~10 gal
+      on hand). Recorded site as Anne Arundel County, MD (USDA 7b).
+      Drafted month-by-month calendar, per-plant soil recipes, and
+      pot-sharing strategy. Noted citronella was recently up-potted
+      from 4 in to 6 in (exact date not captured) and is growing
+      quickly.
+    related: [citronella]
