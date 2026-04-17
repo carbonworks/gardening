@@ -15,6 +15,7 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 - [`docs/soil-recipes.md`](docs/soil-recipes.md) — base mix and per-plant soil recipes
 - [`docs/planting-strategy.md`](docs/planting-strategy.md) — pot-sharing and companion planting plan
 - [`docs/tasks.md`](docs/tasks.md) — open work and recent completions
+- [`docs/shopping.md`](docs/shopping.md) — shopping list (interactive checkboxes on GitHub)
 - [`docs/journal.md`](docs/journal.md) — dated observations and events
 - [`docs/calendar.md`](docs/calendar.md) — month-by-month garden task calendar
 - [`docs/encyclopedia.md`](docs/encyclopedia.md) — short reference entry for every plant
@@ -33,6 +34,7 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 - `data/calendar.yaml` — month-by-month garden tasks
 - `data/encyclopedia.yaml` — reference entries per plant
 - `data/tasks.yaml` — open work and recent completions
+- `data/shopping.yaml` — shopping list (open and purchased items)
 - `data/journal.yaml` — dated observations and events
 - `data/generated.yaml` — registry of every generated doc and its data sources
 

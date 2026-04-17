@@ -33,6 +33,20 @@ Every file under `docs/` must begin with a header like:
 If a doc is edited by hand by mistake, prefer the data in `data/` and
 regenerate rather than preserving the hand edit.
 
+### Exception: interactive task-list docs
+
+Some generated docs (currently `docs/shopping.md`) use GitHub's
+interactive task-list checkboxes. When the user clicks a box on
+GitHub, that commits a change to the markdown. For these docs:
+
+1. Treat the clicked state as an update from the user.
+2. Reconcile it back into the source `data/*.yaml` (e.g. move
+   a shopping item from `open` to `purchased` with a date).
+3. Regenerate the markdown so both stay in sync.
+
+Mark such docs in `data/generated.yaml` with a description that
+mentions interactive task-list state.
+
 ## Conventions
 
 - IDs are kebab-case and stable once assigned.

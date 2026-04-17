@@ -73,3 +73,13 @@ generated_docs:
       - data/encyclopedia.yaml
       - data/plants.yaml
     last_generated: 2026-04-17
+
+  - path: docs/shopping.md
+    description: >-
+      Shopping list (task-list format). GitHub renders the checkboxes
+      as interactive; toggling a box commits state back to the file.
+      The assistant reconciles those state changes back into
+      data/shopping.yaml on the next session.
+    sources:
+      - data/shopping.yaml
+    last_generated: 2026-04-17
