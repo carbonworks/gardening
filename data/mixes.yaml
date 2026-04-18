@@ -3,6 +3,11 @@
 # `applies_to` references map to `id` values in plants.yaml.
 # Every recipe starts from a `premixed-stock` base rather than mixing
 # from raw components each time.
+#
+# IMPORTANT: the base mix currently measures pH ~7.0 (slightly
+# alkaline, dominated by the mushroom compost). Recipes below add or
+# subtract pH-affecting amendments to land each crop in its preferred
+# range.
 
 mixes:
   - id: base-mushroom-coco-peat
@@ -16,8 +21,15 @@ mixes:
         ratio: 0.25
       - supply: peat-moss
         ratio: 0.25
+    measured_ph: 7.0
     usage: Starting base for all soil recipes.
-    notes: 50% mushroom compost, 25% coco coir, 25% peat moss.
+    notes: >-
+      50% mushroom compost, 25% coco coir, 25% peat moss.
+      Mushroom compost dominates the pH (slightly alkaline,
+      ~7.0-7.5 pure). Peat partially offsets but the net measures
+      ~7.0 — too high for potatoes and strawberries, top of range
+      for tomatoes/peppers, and on the high side for cucumbers and
+      most herbs. See per-recipe notes for adjustments.
 
 recipes:
   - id: tomato-pepper-mix
@@ -26,16 +38,33 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.10
-      - supply: mag-i-cal
+        purpose: drainage
+      - supply: gypsum
         amount: 1 tbsp per gallon of finished mix
+        purpose: calcium (blossom end rot prevention), pH-neutral
+      - supply: epsom-salt
+        amount: 1 tsp per gallon of finished mix
+        purpose: magnesium, pH-neutral
+    optional_additions:
+      - supply: elemental-sulfur
+        amount: 1 tbsp per gallon
+        when: "if measured pH stays >6.8 after mixing"
+        purpose: gentle acidification toward 6.5
     applies_to:
       - tomato-dora-red
       - tomato-joy-red
       - tomato-hartmans-yellow-gooseberry
       - pepper-orange-blaze
       - pepper-lunch-box-orange
+      - pepper-flo-organic-sweet
     target_ph: 6.0 - 6.8
-    notes: Calcium from Mag-I-Cal helps prevent blossom end rot.
+    expected_ph_after_amendments: ~6.8-7.0 (without sulfur), ~6.3-6.7 (with sulfur)
+    notes: >-
+      Replaces the original Mag-I-Cal recipe with separate gypsum +
+      Epsom salt to avoid the pH bump from the Plus (limestone)
+      variant. Already-planted container-01 and container-02 used
+      the original recipe; the next time we top-dress those, switch
+      to gypsum + Epsom.
 
   - id: herb-mix
     name: General Herb Mix
@@ -43,14 +72,22 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.10
+        purpose: drainage
+    optional_additions:
+      - supply: epsom-salt
+        amount: 1 tsp per gallon
+        when: "for long-term Mg supplementation in mint-family herbs"
+        purpose: magnesium
     applies_to:
       - basil
       - lemon-balm
       - citronella
     target_ph: 6.0 - 7.0
+    expected_ph_after_amendments: ~7.0
     notes: >-
-      Moderate drainage. Suitable for most culinary herbs and for
-      citronella (Pelargonium 'Citrosum').
+      The 7.0 base is at the top of the herb range but acceptable.
+      No acidification needed. Suitable for most culinary herbs and
+      for citronella (Pelargonium 'Citrosum').
 
   - id: mediterranean-herb-mix
     name: Mediterranean Herb Mix (lavender)
@@ -58,16 +95,21 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.30
+        purpose: heavy drainage
       - supply: vermiculite
         ratio: 0.10
+        purpose: minimal moisture retention
       - supply: garden-lime
-        amount: 1 tbsp per gallon of finished mix
+        amount: 1 tbsp per gallon
+        purpose: nudge pH toward 7.5; lavender prefers slightly alkaline
     applies_to:
       - lavender-provence
     target_ph: 6.5 - 7.5
+    expected_ph_after_amendments: ~7.2-7.5
     notes: >-
-      Heavy drainage, lean, slightly alkaline. Lavender dislikes rich,
-      moisture-retentive soils.
+      The 7.0 base is already in lavender's preferred range. The
+      lime addition pushes toward the higher end. Lavender genuinely
+      thrives in lean, slightly alkaline soil.
 
   - id: lettuce-greens-mix
     name: Lettuce / Salad Greens Mix
@@ -75,12 +117,17 @@ recipes:
     additions:
       - supply: vermiculite
         ratio: 0.10
+        purpose: moisture retention
       - supply: perlite
         ratio: 0.10
+        purpose: drainage
     applies_to:
       - lettuce-mesclun-mix
     target_ph: 6.0 - 7.0
-    notes: Extra moisture retention for shallow-rooted greens.
+    expected_ph_after_amendments: ~7.0
+    notes: >-
+      Lettuce tolerates the 7.0 base. No acidification needed.
+      Extra moisture retention for shallow-rooted greens.
 
   - id: potato-mix
     name: Potato Mix
@@ -88,15 +135,60 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.15
+        purpose: loose, well-drained
+      - supply: peat-moss
+        ratio: 0.10  # extra peat on top of the base for immediate acidification
+        purpose: immediate pH drop (peat is acidic)
+      - supply: elemental-sulfur
+        amount: 2 tbsp per gallon of finished mix
+        purpose: drop pH from 7.0 toward 5.5-6.0 over 2-4 weeks
     avoid:
       - supply: garden-lime
-        reason: Potatoes prefer slightly acidic soil; high pH encourages scab.
+        reason: Raises pH; high pH causes potato scab.
       - supply: mag-i-cal
-        reason: Same — raises pH and risks scab.
+        reason: Same — Mag-I-Cal Plus is limestone-based.
     applies_to:
       - potato-russet
     target_ph: 5.0 - 6.0
-    notes: Loose and well-drained. Skip lime/Mag-I-Cal entirely.
+    expected_ph_after_amendments: ~6.0-6.5 immediately (from extra peat); ~5.5-6.0 after 2-4 weeks (sulfur oxidation)
+    notes: >-
+      Acidification is the critical move here — the 7.0 base is
+      well above potato range and will cause scab if not corrected.
+      The extra peat shifts pH down quickly; the elemental sulfur
+      continues acidifying through the season. Test pH 2-3 weeks
+      after planting and add more sulfur if reading is still above 6.0.
+      The bundled gypsum (12% Ca) in the sulfur product is
+      pH-neutral and not a concern.
+
+  - id: strawberry-mix
+    name: Strawberry Mix
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.10
+        purpose: drainage
+      - supply: peat-moss
+        ratio: 0.10
+        purpose: immediate pH drop (peat is acidic)
+      - supply: elemental-sulfur
+        amount: 1-2 tbsp per gallon of finished mix
+        purpose: drop pH from 7.0 toward 5.5-6.5
+    optional_additions:
+      - supply: pine-bark-fines  # not yet in supplies.yaml
+        amount: as topdress
+        when: "when pine bark fines are acquired"
+        purpose: ongoing acidification + organic mulch
+    applies_to:
+      - strawberry-ever-sweet
+      - strawberry-unknown-basket
+    target_ph: 5.5 - 6.5
+    expected_ph_after_amendments: ~6.0-6.5 immediately; trending lower over weeks
+    notes: >-
+      Strawberries are already in their own pots; this recipe
+      applies if/when we re-pot or topdress. Both existing
+      strawberry containers can have sulfur top-dressed (1 tbsp
+      sprinkled on the surface, watered in) without disturbing
+      roots.
 
   - id: cucumber-mix
     name: Cucumber Mix
@@ -104,12 +196,22 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.10
-      - supply: mag-i-cal
-        amount: 1 tbsp per gallon of finished mix
+        purpose: drainage
+      - supply: gypsum
+        amount: 1 tbsp per gallon
+        purpose: calcium, pH-neutral
+      - supply: epsom-salt
+        amount: 1 tsp per gallon
+        purpose: magnesium, pH-neutral
     applies_to:
       - cucumber  # wishlist entry; no plants.yaml id yet
     target_ph: 6.0 - 7.0
-    notes: Similar profile to tomatoes/peppers; heavy feeder.
+    expected_ph_after_amendments: ~7.0
+    notes: >-
+      Same Ca + Mg profile as tomato/pepper. The 7.0 base is at the
+      top of the cucumber range but workable; cucumbers are heavy
+      feeders, so consistent moisture and feeding matter more than
+      a small pH adjustment here.
 
   - id: marigold-mix
     name: Marigold Mix
@@ -117,8 +219,35 @@ recipes:
     additions:
       - supply: perlite
         ratio: 0.10
+        purpose: drainage
     applies_to:
       - marigold
     target_ph: 6.0 - 7.0
-    notes: Adaptable. Same as general herb mix; kept separate in case
-      marigold-specific tweaks emerge.
+    expected_ph_after_amendments: ~7.0
+    notes: >-
+      Adaptable. The 7.0 base is fine. Same as the General Herb Mix
+      with no Epsom; kept as a separate recipe in case marigold-
+      specific tweaks emerge later.
+
+  - id: citrus-mix
+    name: Citrus Mix (makrut lime)
+    base: base-mushroom-coco-peat
+    additions:
+      - supply: perlite
+        ratio: 0.20
+        purpose: heavy drainage (citrus hate wet feet)
+      - supply: peat-moss
+        ratio: 0.05
+        purpose: gentle acidification
+      - supply: elemental-sulfur
+        amount: 1 tbsp per gallon
+        purpose: drop pH toward 6.0-6.5
+    applies_to:
+      - makrut-lime
+    target_ph: 6.0 - 6.5
+    expected_ph_after_amendments: ~6.5 immediately; trending toward 6.0 over weeks
+    notes: >-
+      Use this whenever the makrut lime is up-potted. Citrus need
+      excellent drainage and slightly acidic soil. A commercial
+      citrus mix is also fine if available; this recipe matches
+      its profile using what we have.

@@ -86,8 +86,11 @@ _Open tasks: [`docs/tasks.md`](tasks.md) &middot; Journal: [`docs/journal.md`](j
 
 - **Vermiculite** — moisture retention, aeration
 - **Perlite** — drainage, aeration
-- **Garden lime** — pH adjustment (raise pH), calcium
-- **Mag-I-Cal** (Espoma) — calcium + magnesium, pH adjustment
+- **Garden lime** — raise pH (used in Mediterranean Herb Mix only)
+- **Earth Science Fast Acting Gypsum** — calcium without pH bump (Tomato & Pepper Mix, Cucumber Mix)
+- **Earth Science Fast Acting Sulfur** — acidify (Potato Mix, Strawberry Mix, Citrus Mix)
+- **Dr Teal's Epsom Salt** — magnesium without pH bump (Tomato & Pepper Mix, Cucumber Mix)
+- **Mag-I-Cal** (Espoma) — being phased out where the *Plus* variant raises pH; replaced by gypsum + Epsom
 
 ### Composts
 
