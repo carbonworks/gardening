@@ -19,37 +19,6 @@ open:
       affects every crop.
     notes: null
 
-  - id: elemental-sulfur
-    item: Granular elemental sulfur (Espoma Soil Acidifier or Down to Earth Soil Acidifier)
-    priority: must-have
-    est_cost: ~$10
-    why: >-
-      Primary tool for lowering soil pH. Slow-acting (works over
-      weeks). Critical for potatoes (need pH 5.0-6.0 to avoid scab)
-      and helpful for strawberries.
-    notes: null
-
-  - id: gypsum
-    item: Pelletized gypsum (calcium sulfate)
-    priority: must-have
-    est_cost: ~$8
-    why: >-
-      Calcium source that does NOT raise pH. Replaces limestone-
-      based Mag-I-Cal Plus in the Tomato & Pepper Mix.
-    notes: >-
-      Check the Mag-I-Cal bag — standard "Mag-I-Cal" is already
-      gypsum-based (pH-neutral, OK to keep using). "Mag-I-Cal Plus"
-      is calcitic limestone (raises pH — swap for gypsum).
-
-  - id: epsom-salts
-    item: Epsom salts (magnesium sulfate)
-    priority: must-have
-    est_cost: ~$5
-    why: >-
-      Magnesium without a pH bump. Pairs with gypsum to replace
-      the Ca/Mg that Mag-I-Cal Plus was supplying.
-    notes: null
-
   - id: pine-bark-fines
     item: Pine bark fines or pine needles (bagged)
     priority: nice-to-have
@@ -59,4 +28,29 @@ open:
       (both prefer soil below 6.0). Also adds slow organic matter.
     notes: null
 
-purchased: []
+purchased:
+  - id: gypsum
+    item: Earth Science Fast Acting Gypsum
+    purchased_on: 2026-04-17
+    supply_id: gypsum
+    notes: >-
+      2.5 lb bag, ~$11.99. 90% calcium sulfate dihydrate, 20% Ca,
+      16% sulfate sulfur, 1% polyacrylamide polymer. Replaces
+      Mag-I-Cal in the Tomato & Pepper Mix.
+
+  - id: elemental-sulfur
+    item: Earth Science Fast Acting Sulfur
+    purchased_on: 2026-04-17
+    supply_id: elemental-sulfur
+    notes: >-
+      2.5 lb bag. 26% free elemental S, 10% combined sulfate S,
+      12% Ca (from bundled gypsum). Net effect acidifying.
+      For Potato Mix and Strawberry Mix.
+
+  - id: epsom-salt
+    item: Dr Teal's Epsom Salt
+    purchased_on: 2026-04-17
+    supply_id: epsom-salt
+    notes: >-
+      Pure MgSO4-7H2O. Magnesium without a pH bump. Pairs with
+      gypsum to replace what Mag-I-Cal Plus was supplying.

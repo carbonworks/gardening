@@ -41,7 +41,62 @@ supplies:
     name: Mag-I-Cal
     category: amendment
     used_for: calcium + magnesium, pH adjustment
-    notes: Espoma pelletized limestone fortified with magnesium.
+    notes: >-
+      Espoma pelletized limestone fortified with magnesium.
+      Status: original recipe ingredient; being phased out in favor
+      of separate gypsum + Epsom salt because the Mag-I-Cal Plus
+      variant raises pH (limestone-based), which conflicts with the
+      already-7.0 starting base. Standard Mag-I-Cal (gypsum-based)
+      is pH-neutral and remains usable.
+
+  - id: gypsum
+    name: Earth Science Fast Acting Gypsum
+    category: amendment
+    used_for: calcium without pH bump
+    composition:
+      calcium_pct: 20
+      sulfur_pct: 16  # combined sulfur (sulfate form, does not acidify)
+      calcium_sulfate_dihydrate_pct: 90
+      polymer_pct: 1  # sodium acrylate/acrylamide copolymer (water retention)
+    derived_from: Flue gas desulfurization (FGD) gypsum
+    pH_effect: neutral
+    notes: >-
+      Replaces lime-based Mag-I-Cal Plus in the Tomato & Pepper Mix.
+      Sulfur content is sulfate-S (already oxidized) and does NOT
+      acidify soil. Contains 1% polyacrylamide polymer; not OMRI
+      certified-organic.
+    purchased_on: 2026-04-17
+
+  - id: elemental-sulfur
+    name: Earth Science Fast Acting Sulfur
+    category: amendment
+    used_for: lower soil pH (acidify)
+    composition:
+      calcium_pct: 12  # from gypsum component
+      sulfur_pct: 36   # 26% free elemental + 10% combined (sulfate)
+      free_sulfur_pct: 26
+      combined_sulfur_pct: 10
+      polymer_pct: 1
+    derived_from: Elemental sulfur and FGD gypsum (blend)
+    pH_effect: acidifying (over 2-4 weeks as soil bacteria oxidize the elemental S)
+    notes: >-
+      Critical for the Potato Mix and the Strawberry Mix. The
+      bundled gypsum (12% Ca) is pH-neutral, so the net effect of
+      this product is still acidifying. Contains 1% polyacrylamide.
+    purchased_on: 2026-04-17
+
+  - id: epsom-salt
+    name: Dr Teal's Epsom Salt
+    category: amendment
+    used_for: magnesium without pH bump
+    composition:
+      magnesium_sulfate_pct: 100  # MgSO4-7H2O
+    pH_effect: neutral
+    notes: >-
+      Pure magnesium sulfate (MgSO4-7H2O). Pairs with gypsum to
+      replace Mag-I-Cal Plus. Same product as garden-grade Epsom
+      salt; sold in bath aisles as plain Epsom salt.
+    purchased_on: 2026-04-17
 
   # --- Composts ---
   - id: wild-mushroom-blend
