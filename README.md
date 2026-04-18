@@ -38,6 +38,14 @@ See [`CLAUDE.md`](CLAUDE.md) for the full workflow.
 - `data/journal.yaml` — dated observations and events
 - `data/generated.yaml` — registry of every generated doc and its data sources
 
+## Images
+
+- `images/plants/` — plant tags, labels, and plant-specific photos
+- `images/supplies/` — product labels and supply photos
+- `images/journal/` — dated photos tied to a journal entry
+
+See [`images/README.md`](images/README.md) for naming conventions.
+
 ## Conventions
 
 - IDs use kebab-case and are stable once assigned (e.g. `container-01`).

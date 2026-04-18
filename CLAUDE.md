@@ -62,3 +62,11 @@ mentions interactive task-list state.
 3. Add any new generated docs to `data/generated.yaml` with explicit
    source list.
 4. Add it to the file list in `README.md`.
+
+## Images
+
+Photos live in `images/` (see `images/README.md` for the folder
+layout and naming conventions). When the user uploads a photo, add
+a reference to it from the most relevant generated doc — plant tags
+from the encyclopedia entry, supply labels from the inventory,
+dated photos from the corresponding journal entry.
